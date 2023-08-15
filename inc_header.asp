@@ -1,302 +1,304 @@
-<header class="header-area header-style-4 header-height-2">
+    <header class="header-area header-style-4 header-height-2">
 
-    <!-- Topbar Section Start -->
-        <div class="header-top header-top-ptb-1 d-none d-lg-block d-sm-none">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-xl-9 col-lg-9">
-                        <div class="header-info">
-                            <ul>
-                                <li><i class="fi-rs-smartphone"></i> <a href="#">(+91) 90010-97357</a></li>
-                                <li><i class="fi-rs-marker"></i><a href="#">Bhilwara Furniture House Near Sitaram Ji Ki Bawri, Bhilwara,311001- Rajasthan, INDIA</a></li>
-                            </ul>
+        <!-- Topbar Section Start -->
+            <div class="header-top header-top-ptb-1 d-none d-lg-block d-sm-none">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-xl-9 col-lg-9">
+                            <div class="header-info">
+                                <ul>
+                                    <li><i class="fi-rs-smartphone"></i> <a href="tel:(+91)9001097357">(+91) 90010-97357</a></li>
+                                    <li><i class="fi-rs-marker"></i><a href="https://goo.gl/maps/kRtQzQX6ASj5CYfJ7">Bhilwara Furniture House Near Sitaram Ji Ki Bawri, Bhilwara,311001- Rajasthan, INDIA</a></li>
+                                </ul>
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-3">
-                        <div class="header-info header-info-right">
-                            <ul>
-                                <li> 
-                                    <a href="https://www.facebook.com/giftchoicebhl" target="_blank">
-                                        <i class="fa fa-facebook" aria-hidden="true"></i>
-                                    </a> 
-                                </li>
-                                <li> 
-                                    <a href="#">
-                                        <i class="fa fa-whatsapp" aria-hidden="true"></i>
-                                    </a> 
-                                </li>
-                                <li> 
-                                    <a href="https://www.instagram.com/abhumagift" target="_blank">
-                                        <i class="fa fa-instagram" aria-hidden="true"></i>
-                                    </a> 
-                                </li>
-                                <li> 
-                                    <a href="#">
-                                        <i class="fa fa-youtube" aria-hidden="true"></i>
-                                    </a> 
-                                </li>
-                            </ul>
+                        <div class="col-xl-3 col-lg-3">
+                            <div class="header-info header-info-right">
+                                <ul>
+                                    <li> 
+                                        <a href="https://www.facebook.com/giftchoicebhl" target="_blank">
+                                            <i class="fa fa-facebook" aria-hidden="true"></i>
+                                        </a> 
+                                    </li>
+                                    <li> 
+                                        <a href="#">
+                                            <i class="fa fa-whatsapp" aria-hidden="true"></i>
+                                        </a> 
+                                    </li>
+                                    <li> 
+                                        <a href="https://www.instagram.com/abhumagift" target="_blank">
+                                            <i class="fa fa-instagram" aria-hidden="true"></i>
+                                        </a> 
+                                    </li>
+                                    <li> 
+                                        <a href="#">
+                                            <i class="fa fa-youtube" aria-hidden="true"></i>
+                                        </a> 
+                                    </li>
+                                </ul>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-    <!-- Topbar Section End -->
+        <!-- Topbar Section End -->
 
 
-    <!-- Middle Header Start -->
-        <div class="header-middle header-middle-ptb-1 d-none d-lg-block">
-            <div class="container">
-                <div class="header-wrap">
-                    <div class="logo logo-width-1">
-                        <a href="index.asp"><img src="assets/imgs/resources/gift-choice-vertical.png" alt="logo"></a>
-                    </div>
-                    <div class="header-right">
-                        <div class="search-style-2">
-                            <form action="#">
-                                <input type="text" placeholder="Search for items..." class="w-100">
-                            </form>
+        <!-- Middle Header Start -->
+            <div class="header-middle header-middle-ptb-1 d-none d-lg-block">
+                <div class="container">
+                    <div class="header-wrap">
+                        <div class="logo logo-width-1">
+                            <a href="index.asp"><img src="assets/imgs/resources/gift-choice-vertical.png" alt="logo"></a>
                         </div>
-                        <div class="header-action-right">
+                        <div class="header-right">
+                            <div class="search-style-2">
+                                <form action="#">
+                                    <input type="text" placeholder="Search for items..." class="w-100">
+                                </form>
+                            </div>
+                            <div class="header-action-right">
+                                <div class="header-action-2">
+                                    <div class="header-action-icon-2">
+                                        <a class="mini-cart-icon" href="cart.asp">
+                                            <img alt="cart-image" src="assets/imgs/theme/icons/icon-cart.svg">
+                                            <span class="pro-count blue">2</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        <!-- Middle Header End -->
+
+        <!-- Header Bottom Start -->
+            <div class="header-bottom header-bottom-bg-color sticky-bar">
+                <div class="container-fluid">
+                    <div class="header-wrap justify-content-center position-relative mobile-justify-content-between">
+                        <div class="logo logo-width-1 d-block d-lg-none">
+                            <a href="index.asp"><img src="assets/imgs/resources/gift-choice.png" alt="logo"></a>
+                        </div>
+
+                        <div class="header-nav  d-none d-lg-flex">
+                            <div class="main-menu main-menu-padding-1 main-menu-lh-2 d-none d-lg-block">
+                                <nav>
+                                    <ul>
+                                        <li><a href="#">Rakshabandhan Gifts <i class="fi-rs-angle-down"></i></a>
+                                            <ul class="sub-menu">
+                                                <li><a href="shop_by_categories.asp">Rakhi</a></li>
+                                                <li><a href="shop_by_categories.asp">Rakhi For Brother</a></li>
+                                                <li><a href="shop_by_categories.asp">Rakhi For Sister</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="#">Gift For Friends <i class="fi-rs-angle-down"></i></a>
+                                            <ul class="sub-menu">
+                                                <li><a href="shop_by_categories.asp">Birthday Gifts</a></li>
+                                                <li><a href="shop_by_categories.asp">Farewell Gifts</a></li>
+                                                <li><a href="shop_by_categories.asp">Him Gifts</a></li>
+                                                <li><a href="shop_by_categories.asp">Her Gifts</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="#">Gift For Him <i class="fi-rs-angle-down"></i></a>
+                                            <ul class="sub-menu">
+                                                <li><a href="shop_by_categories.asp">Boyfriend Gifts</a></li>
+                                                <li><a href="shop_by_categories.asp">Friend Gifts</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="#">Gift For Her <i class="fi-rs-angle-down"></i></a>
+                                            <ul class="sub-menu">
+                                                <li><a href="shop_by_categories.asp">Girlfriend Gifts</a></li>
+                                                <li><a href="shop_by_categories.asp">Friend Gifts</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="#">Love Gifts <i class="fi-rs-angle-down"></i></a>
+                                            <ul class="sub-menu">
+                                                <li><a href="shop_by_categories.asp">Anniversary Gits</a></li>
+                                                <li><a href="shop_by_categories.asp">Wedding Gifts</a></li>
+                                                <li><a href="shop_by_categories.asp">Love Gifts</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="#">Gift For Dad</a></li>
+                                        <li><a href="#">More Category <i class="fi-rs-angle-down"></i></a>
+                                            <ul class="sub-menu more-category">
+                                                <li><a href="shop_by_categories.asp">Mug</a></li>
+                                                <li><a href="shop_by_categories.asp">Frame</a></li>
+                                                <li><a href="shop_by_categories.asp">Cushion</a></li>
+                                                <li><a href="shop_by_categories.asp">Night Lamps</a></li>
+                                                <li><a href="shop_by_categories.asp">Keychains</a></li>
+                                                <li><a href="shop_by_categories.asp">Wall Watches</a></li>
+                                                <li><a href="shop_by_categories.asp">Gift Hampers</a></li>
+                                                <li><a href="shop_by_categories.asp">New Releases</a></li>
+                                                <li><a href="shop_by_categories.asp">T-shirts</a></li>
+                                                <li><a href="shop_by_categories.asp">Pendants</a></li>
+                                                <li><a href="shop_by_categories.asp">Statues</a></li>
+                                                <li><a href="shop_by_categories.asp">Name Plates</a></li>
+                                                <li><a href="shop_by_categories.asp">Gift For Mom</a></li>
+                                                <li><a href="shop_by_categories.asp">Gift For Kids</a></li>
+                                                <li><a href="shop_by_categories.asp">Office Gifts</a></li>
+                                                <li><a href="shop_by_categories.asp">Home Decor</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="#">Contact Us</a></li>
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+
+                        <p class="mobile-promotion">Happy <span class="text-brand">Mother's Day</span>. Big Sale Up to 40%</p>
+                        <div class="header-action-right d-block d-lg-none">
                             <div class="header-action-2">
                                 <div class="header-action-icon-2">
                                     <a class="mini-cart-icon" href="cart.asp">
-                                        <img alt="cart-image" src="assets/imgs/theme/icons/icon-cart.svg">
-                                        <span class="pro-count blue">2</span>
+                                        <img alt="Evara" src="assets/imgs/theme/icons/icon-cart.svg">
+                                        <span class="pro-count white">2</span>
                                     </a>
                                 </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    <!-- Middle Header End -->
-
-    <!-- Header Bottom Start -->
-        <div class="header-bottom header-bottom-bg-color sticky-bar">
-            <div class="container-fluid">
-                <div class="header-wrap justify-content-center position-relative mobile-justify-content-between">
-                    <div class="logo logo-width-1 d-block d-lg-none">
-                        <a href="index.asp"><img src="assets/imgs/resources/gift-choice.png" alt="logo"></a>
-                    </div>
-
-                    <div class="header-nav  d-none d-lg-flex">
-                        <div class="main-menu main-menu-padding-1 main-menu-lh-2 d-none d-lg-block">
-                            <nav>
-                                <ul>
-                                    <li><a href="#">Rakshabandhan Gifts <i class="fi-rs-angle-down"></i></a>
-                                        <ul class="sub-menu">
-                                            <li><a href="#">Rakhi</a></li>
-                                            <li><a href="#">Rakhi For Brother</a></li>
-                                            <li><a href="#">Rakhi For Sister</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="#">Gift For Friends <i class="fi-rs-angle-down"></i></a>
-                                        <ul class="sub-menu">
-                                            <li><a href="#">Birthday Gifts</a></li>
-                                            <li><a href="#">Farewell Gifts</a></li>
-                                            <li><a href="#">Him Gifts</a></li>
-                                            <li><a href="#">Her Gifts</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="#">Gift For Him <i class="fi-rs-angle-down"></i></a>
-                                        <ul class="sub-menu">
-                                            <li><a href="#">Boyfriend Gifts</a></li>
-                                            <li><a href="#">Friend Gifts</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="#">Gift For Her <i class="fi-rs-angle-down"></i></a>
-                                        <ul class="sub-menu">
-                                            <li><a href="#">Girlfriend Gifts</a></li>
-                                            <li><a href="#">Friend Gifts</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="#">Love Gifts <i class="fi-rs-angle-down"></i></a>
-                                        <ul class="sub-menu">
-                                            <li><a href="#">Anniversary Gits</a></li>
-                                            <li><a href="#">Wedding Gifts</a></li>
-                                            <li><a href="#">Love Gifts</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="#">Gift For Dad</a></li>
-                                    <li><a href="#">More Category <i class="fi-rs-angle-down"></i></a>
-                                        <ul class="sub-menu more-category">
-                                            <li><a href="#">Mug</a></li>
-                                            <li><a href="#">Frame</a></li>
-                                            <li><a href="#">Cushion</a></li>
-                                            <li><a href="#">Night Lamps</a></li>
-                                            <li><a href="#">Keychains</a></li>
-                                            <li><a href="#">Wall Watches</a></li>
-                                            <li><a href="#">Gift Hampers</a></li>
-                                            <li><a href="#">New Releases</a></li>
-                                            <li><a href="#">T-shirts</a></li>
-                                            <li><a href="#">Pendants</a></li>
-                                            <li><a href="#">Statues</a></li>
-                                            <li><a href="#">Name Plates</a></li>
-                                            <li><a href="#">Gift For Mom</a></li>
-                                            <li><a href="#">Gift For Kids</a></li>
-                                            <li><a href="#">Office Gifts</a></li>
-                                            <li><a href="#">Home Decor</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="#">Contact Us</a></li>
-                                </ul>
-                            </nav>
-                        </div>
-                    </div>
-
-                    <p class="mobile-promotion">Happy <span class="text-brand">Mother's Day</span>. Big Sale Up to 40%</p>
-                    <div class="header-action-right d-block d-lg-none">
-                        <div class="header-action-2">
-                            <div class="header-action-icon-2">
-                                <a class="mini-cart-icon" href="cart.asp">
-                                    <img alt="Evara" src="assets/imgs/theme/icons/icon-cart.svg">
-                                    <span class="pro-count white">2</span>
-                                </a>
-                            </div>
-                            <div class="header-action-icon-2 d-block d-lg-none">
-                                <div class="burger-icon burger-icon-white">
-                                    <span class="burger-icon-top"></span>
-                                    <span class="burger-icon-mid"></span>
-                                    <span class="burger-icon-bottom"></span>
+                                <div class="header-action-icon-2 d-block d-lg-none">
+                                    <div class="burger-icon burger-icon-white">
+                                        <span class="burger-icon-top"></span>
+                                        <span class="burger-icon-mid"></span>
+                                        <span class="burger-icon-bottom"></span>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-    <!-- Header Bottom End -->
-    
-</header>
+        <!-- Header Bottom End -->
+        
+    </header>
 
-<div class="mobile-header-active mobile-header-wrapper-style">
-    <div class="mobile-header-wrapper-inner">
-        <div class="mobile-header-top">
-            <div class="mobile-header-logo">
-                <a href="index.asp"><img src="assets/imgs/theme/logo.svg" alt="logo"></a>
-            </div>
-            <div class="mobile-menu-close close-style-wrap close-style-position-inherit">
-                <button class="close-style search-close">
-                    <i class="icon-top"></i>
-                    <i class="icon-bottom"></i>
-                </button>
-            </div>
-        </div>
-        <div class="mobile-header-content-area">
-            <div class="mobile-search search-style-3 mobile-header-border">
-                <form action="#">
-                    <input type="text" placeholder="Search for items…">
-                    <button type="submit"><i class="fi-rs-search"></i></button>
-                </form>
-            </div>
-            <div class="mobile-menu-wrap mobile-header-border">
-                <nav>
-                    <ul class="mobile-menu">
-                        <li class="menu-item-has-children"><a href="index.asp">Home</a> </li>
-                        
-                        <li class="menu-item-has-children">
-                            <span class="menu-expand"></span><a href="shop_by_categories.asp">Rakshabandhan Gifts</a>
-                            <ul class="dropdown">
-                                <li><a href="shop_by_categories.asp">Rakhi</a></li>
-                                <li><a href="shop_by_categories.asp">Rakhi For Brother</a></li>
-                                <li><a href="shop_by_categories.asp">Rakhi For Sister</a></li>
-                            </ul>
-                        </li>
-                        <li class="menu-item-has-children">
-                            <span class="menu-expand"></span><a href="#">Gift For Friends</a>
-                            <ul class="dropdown">
-                                <li><a href="shop_by_categories.asp">Birthday Gifts</a></li>
-                                <li><a href="shop_by_categories.asp">Farewell Gifts</a></li>
-                                <li><a href="shop_by_categories.asp">Him Gifts</a></li>
-                                <li><a href="shop_by_categories.asp">Her Gifts</a></li>
-                            </ul>
-                        </li>
-                        <li class="menu-item-has-children">
-                            <span class="menu-expand"></span><a href="#">Gift For Him</a>
-                            <ul class="dropdown">
-                                <li><a href="shop_by_categories.asp">Boyfriend Gifts</a></li>
-                                <li><a href="shop_by_categories.asp">Friend Gifts</a></li>
-                            </ul>
-                        </li>
-                        <li class="menu-item-has-children">
-                            <span class="menu-expand"></span><a href="#">Gift For Her</a>
-                            <ul class="dropdown">
-                                <li><a href="shop_by_categories.asp">Girlfriend Gifts</a></li>
-                                <li><a href="shop_by_categories.asp">Friend Gifts</a></li>
-                            </ul>
-                        </li>
-                        <li class="menu-item-has-children">
-                            <span class="menu-expand"></span><a href="#">Love Gifts</a>
-                            <ul class="dropdown">
-                                <li><a href="shop_by_categories.asp">Anniversary Gits</a></li>
-                                <li><a href="shop_by_categories.asp">Wedding Gifts</a></li>
-                                <li><a href="shop_by_categories.asp">Love Gifts</a></li>
-                            </ul>
-                        </li>
-                        <li class="menu-item-has-children"><a href="#">Gift For Dad</a></li>
-                        <li class="menu-item-has-children">
-                            <span class="menu-expand"></span><a href="#">More Category</a>
-                            <ul class="dropdown">
-                                <li><a href="shop_by_categories.asp">Mug</a></li>
-                                <li><a href="shop_by_categories.asp">Frame</a></li>
-                                <li><a href="shop_by_categories.asp">Cushion</a></li>
-                                <li><a href="shop_by_categories.asp">Night Lamps</a></li>
-                                <li><a href="shop_by_categories.asp">Keychains</a></li>
-                                <li><a href="shop_by_categories.asp">Wall Watches</a></li>
-                                <li><a href="shop_by_categories.asp">Gift Hampers</a></li>
-                                <li><a href="shop_by_categories.asp">New Releases</a></li>
-                                <li><a href="shop_by_categories.asp">T-shirts</a></li>
-                                <li><a href="shop_by_categories.asp">Pendants</a></li>
-                                <li><a href="shop_by_categories.asp">Statues</a></li>
-                                <li><a href="shop_by_categories.asp">Name Plates</a></li>
-                                <li><a href="shop_by_categories.asp">Gift For Mom</a></li>
-                                <li><a href="shop_by_categories.asp">Gift For Kids</a></li>
-                                <li><a href="shop_by_categories.asp">Office Gifts</a></li>
-                                <li><a href="shop_by_categories.asp">Home Decor</a></li>
-                            </ul>
-                        </li>
-                        <li class="menu-item-has-children"><a href="shop_by_categories.asp">Contact Us</a></li>
-                    </ul>
-                </nav>
-                <!-- mobile menu end -->
-            </div>
-            <div class="mobile-header-info-wrap mobile-header-border">
-                <div class="single-mobile-header-info mt-30">
-                    <p class="mb-0"><i class="fa fa-map" aria-hidden="true"></i> Our location</p>
-                    <a href="#">Bhilwara Furniture House Near Sitaram Ji Ki Bawri, Bhilwara,311001- Rajasthan, INDIA</a>
+    <!-- Mobile Sidebar STart -->
+    <div class="mobile-header-active mobile-header-wrapper-style">
+        <div class="mobile-header-wrapper-inner">
+            <div class="mobile-header-top">
+                <div class="mobile-header-logo">
+                    <a href="index.asp"><img src="assets/imgs/theme/logo.svg" alt="logo"></a>
                 </div>
-
-                <hr>
-
-                <div class="single-mobile-header-info">
-                    <p class="mb-0"><i class="fa fa-mobile" aria-hidden="true"></i> Contact No.</p>
-                    <a href="#">+91 79769-48872</a>
-                </div>
-
-                <hr>
-
-                <div class="single-mobile-header-info">
-                    <p class="mb-0"><i class="fa fa-envelope" aria-hidden="true"></i> E-mail Address</p>
-                    <a href="#">yashj.6628@gmail.com</a>
+                <div class="mobile-menu-close close-style-wrap close-style-position-inherit">
+                    <button class="close-style search-close">
+                        <i class="icon-top"></i>
+                        <i class="icon-bottom"></i>
+                    </button>
                 </div>
             </div>
-            <div class="mobile-social-icon">
-                <h5 class="mb-15 text-grey-4">Follow Us</h5>
-                <a href="https://www.facebook.com/giftchoicebhl" target="_blank">
-                    <i class="fa fa-facebook" aria-hidden="true"></i>
-                </a>
-                <a href="#">
-                    <i class="fa fa-whatsapp" aria-hidden="true"></i>
-                </a> 
-                <a href="https://www.instagram.com/abhumagift" target="_blank">
-                    <i class="fa fa-instagram" aria-hidden="true"></i>
-                </a>
-                <a href="#">
-                    <i class="fa fa-youtube" aria-hidden="true"></i>
-                </a>
+            <div class="mobile-header-content-area">
+                <div class="mobile-search search-style-3 mobile-header-border">
+                    <form action="#">
+                        <input type="text" placeholder="Search for items…">
+                        <button type="submit"><i class="fi-rs-search"></i></button>
+                    </form>
+                </div>
+                <div class="mobile-menu-wrap mobile-header-border">
+                    <nav>
+                        <ul class="mobile-menu">
+                            <li class="menu-item-has-children"><a href="index.asp">Home</a> </li>
+                            
+                            <li class="menu-item-has-children">
+                                <span class="menu-expand"></span><a href="shop_by_categories.asp">Rakshabandhan Gifts</a>
+                                <ul class="dropdown">
+                                    <li><a href="shop_by_categories.asp">Rakhi</a></li>
+                                    <li><a href="shop_by_categories.asp">Rakhi For Brother</a></li>
+                                    <li><a href="shop_by_categories.asp">Rakhi For Sister</a></li>
+                                </ul>
+                            </li>
+                            <li class="menu-item-has-children">
+                                <span class="menu-expand"></span><a href="#">Gift For Friends</a>
+                                <ul class="dropdown">
+                                    <li><a href="shop_by_categories.asp">Birthday Gifts</a></li>
+                                    <li><a href="shop_by_categories.asp">Farewell Gifts</a></li>
+                                    <li><a href="shop_by_categories.asp">Him Gifts</a></li>
+                                    <li><a href="shop_by_categories.asp">Her Gifts</a></li>
+                                </ul>
+                            </li>
+                            <li class="menu-item-has-children">
+                                <span class="menu-expand"></span><a href="#">Gift For Him</a>
+                                <ul class="dropdown">
+                                    <li><a href="shop_by_categories.asp">Boyfriend Gifts</a></li>
+                                    <li><a href="shop_by_categories.asp">Friend Gifts</a></li>
+                                </ul>
+                            </li>
+                            <li class="menu-item-has-children">
+                                <span class="menu-expand"></span><a href="#">Gift For Her</a>
+                                <ul class="dropdown">
+                                    <li><a href="shop_by_categories.asp">Girlfriend Gifts</a></li>
+                                    <li><a href="shop_by_categories.asp">Friend Gifts</a></li>
+                                </ul>
+                            </li>
+                            <li class="menu-item-has-children">
+                                <span class="menu-expand"></span><a href="#">Love Gifts</a>
+                                <ul class="dropdown">
+                                    <li><a href="shop_by_categories.asp">Anniversary Gits</a></li>
+                                    <li><a href="shop_by_categories.asp">Wedding Gifts</a></li>
+                                    <li><a href="shop_by_categories.asp">Love Gifts</a></li>
+                                </ul>
+                            </li>
+                            <li class="menu-item-has-children"><a href="#">Gift For Dad</a></li>
+                            <li class="menu-item-has-children">
+                                <span class="menu-expand"></span><a href="#">More Category</a>
+                                <ul class="dropdown">
+                                    <li><a href="shop_by_categories.asp">Mug</a></li>
+                                    <li><a href="shop_by_categories.asp">Frame</a></li>
+                                    <li><a href="shop_by_categories.asp">Cushion</a></li>
+                                    <li><a href="shop_by_categories.asp">Night Lamps</a></li>
+                                    <li><a href="shop_by_categories.asp">Keychains</a></li>
+                                    <li><a href="shop_by_categories.asp">Wall Watches</a></li>
+                                    <li><a href="shop_by_categories.asp">Gift Hampers</a></li>
+                                    <li><a href="shop_by_categories.asp">New Releases</a></li>
+                                    <li><a href="shop_by_categories.asp">T-shirts</a></li>
+                                    <li><a href="shop_by_categories.asp">Pendants</a></li>
+                                    <li><a href="shop_by_categories.asp">Statues</a></li>
+                                    <li><a href="shop_by_categories.asp">Name Plates</a></li>
+                                    <li><a href="shop_by_categories.asp">Gift For Mom</a></li>
+                                    <li><a href="shop_by_categories.asp">Gift For Kids</a></li>
+                                    <li><a href="shop_by_categories.asp">Office Gifts</a></li>
+                                    <li><a href="shop_by_categories.asp">Home Decor</a></li>
+                                </ul>
+                            </li>
+                            <li class="menu-item-has-children"><a href="shop_by_categories.asp">Contact Us</a></li>
+                        </ul>
+                    </nav>
+                    <!-- mobile menu end -->
+                </div>
+                <div class="mobile-header-info-wrap mobile-header-border">
+                    <div class="single-mobile-header-info mt-30">
+                        <p class="mb-0"><i class="fa fa-map" aria-hidden="true"></i> Our location</p>
+                        <a href="#">Bhilwara Furniture House Near Sitaram Ji Ki Bawri, Bhilwara,311001- Rajasthan, INDIA</a>
+                    </div>
+
+                    <hr>
+
+                    <div class="single-mobile-header-info">
+                        <p class="mb-0"><i class="fa fa-mobile" aria-hidden="true"></i> Contact No.</p>
+                        <a href="#">+91 79769-48872</a>
+                    </div>
+
+                    <hr>
+
+                    <div class="single-mobile-header-info">
+                        <p class="mb-0"><i class="fa fa-envelope" aria-hidden="true"></i> E-mail Address</p>
+                        <a href="#">yashj.6628@gmail.com</a>
+                    </div>
+                </div>
+                <div class="mobile-social-icon">
+                    <h5 class="mb-15 text-grey-4">Follow Us</h5>
+                    <a href="https://www.facebook.com/giftchoicebhl" target="_blank">
+                        <i class="fa fa-facebook" aria-hidden="true"></i>
+                    </a>
+                    <a href="#">
+                        <i class="fa fa-whatsapp" aria-hidden="true"></i>
+                    </a> 
+                    <a href="https://www.instagram.com/abhumagift" target="_blank">
+                        <i class="fa fa-instagram" aria-hidden="true"></i>
+                    </a>
+                    <a href="#">
+                        <i class="fa fa-youtube" aria-hidden="true"></i>
+                    </a>
+                </div>
             </div>
         </div>
     </div>
-</div>
+    <!-- Mobile Sidebar End -->

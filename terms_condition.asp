@@ -34,7 +34,7 @@
                 <div class="container">
                     <div class="breadcrumb">
                         <a href="index.asp" rel="nofollow">Home</a>
-                        <span></span> Privacy policy
+                        <span></span> Terms &amp; Conditions
                     </div>
                 </div>
             </div>
@@ -44,7 +44,7 @@
                         <div class="col-lg-12">
                             <div class="single-page pr-30">
                                 <div class="single-header style-2">
-                                    <h2>Privacy Policy</h2>
+                                    <h2>Terms &amp; Conditions</h2>
                                 </div>
                                 <div class="single-content">
                                     <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, consequatur!</h4>

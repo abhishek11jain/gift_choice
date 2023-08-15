@@ -9980,7 +9980,7 @@ span.fi-rs-apps {
     justify-content: space-between !important;
   }
   .mobile-header-wrapper-style .mobile-header-wrapper-inner .mobile-header-content-area .mobile-menu-wrap nav .mobile-menu li.menu-item-has-children .menu-expand{
-    left: 45% !important;
+  left: 45% !important;
     width: 100% !important;
   }
 }
@@ -9988,5 +9988,7 @@ span.fi-rs-apps {
 .fs-7{
   font-size: 0.875rem !important;
 }
-
+.w-auto{
+  width: auto !important;
+}
 /*# sourceMappingURL=main.css.map */
