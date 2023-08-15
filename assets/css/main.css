@@ -1,6 +1,3 @@
-
-@import url("../../../../../css2");
-@import url("../../../../../css2-1");
 /*import vendors*/
 @import url(vendors/normalize.css);
 @import url(vendors/bootstrap.min.css);
@@ -32,6 +29,13 @@ time, mark, audio, video {
   font-size: 100%;
   font: inherit;
   vertical-align: baseline;
+}
+ 
+*{
+  text-decoration: none !important;
+}
+ul{
+  margin-bottom: 0 !important;
 }
 
 thead {
@@ -2786,7 +2790,7 @@ table p {
 }
 
 table.clean td, table.clean th {
-  border: 0;
+  border: 1px solid #e2e9e1;
   border-top: 1px solid #e2e9e1;
 }
 
@@ -9752,9 +9756,6 @@ span.fi-rs-apps {
     margin-right: 15px;
     font-weight: bold;
   }
-  .table thead {
-    display: none;
-  }
   .loop-grid.pr-30 {
     padding-right: 0 !important;
   }
@@ -9957,9 +9958,35 @@ span.fi-rs-apps {
     bottom: 11px;
     right: 7px;
   }
+  .cart-table tr{
+    margin-bottom: 20px !important;
+  }
+  .table td{
+    display: revert !important;
+    white-space: nowrap !important;
+  }
+  .detail-qty {
+    padding: 8px 34px !important;
+  }
+  .cart-section .btn{
+    padding: 12px !important;
+    font-size: 12px !important;
+  }
+  .order_review{
+    padding: 20px !important;
+    margin-bottom: 20px !important;
+  }
+  .mobile-justify-content-between{
+    justify-content: space-between !important;
+  }
+  .mobile-header-wrapper-style .mobile-header-wrapper-inner .mobile-header-content-area .mobile-menu-wrap nav .mobile-menu li.menu-item-has-children .menu-expand{
+    left: 45% !important;
+    width: 100% !important;
+  }
 }
 
 .fs-7{
   font-size: 0.875rem !important;
 }
+
 /*# sourceMappingURL=main.css.map */

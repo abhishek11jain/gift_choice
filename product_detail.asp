@@ -101,7 +101,7 @@
                                                 <div class="detail-info">
                                                     <h2 class="title-detail">Product Name Here</h2>
                                                     <div class="pro-details-brand">
-                                                        <span><a href="#">Product Category</a></span>
+                                                        <span><a href="shop_by_categories.asp">Product Category</a></span>
                                                     </div>
 
                                                     <div class="clearfix product-price-cover border-0 mb-0">
@@ -174,9 +174,7 @@
                                                             <span class="qty-val">1</span>
                                                             <a href="#" class="qty-up"><i class="fi-rs-angle-small-up"></i></a>
                                                         </div>
-                                                        <div class="product-extra-link2">
-                                                            <button type="submit" class="button button-add-to-cart">Add to cart</button>
-                                                        </div>
+                                                        <a class="button button-add-to-cart text-white" href="cart.asp" role="button">Add To Cart</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -337,8 +335,8 @@
         <script src="assets/js/plugins/jquery.theia.sticky.js"></script>
         <script src="assets/js/plugins/jquery.elevatezoom.js"></script>
         <!-- Template  JS -->
-        <script src="assets/js/main.js?v=3.4"></script>
-        <script src="assets/js/shop.js?v=3.4"></script>
+        <script src="assets/js/main.js"></script>
+        <script src="assets/js/shop.js"></script>
     </body>
 
 </html>
