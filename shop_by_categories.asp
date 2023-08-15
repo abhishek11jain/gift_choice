@@ -81,7 +81,7 @@
                                     <div class="product-cart-wrap mb-30">
                                         <div class="product-img-action-wrap">
                                             <div class="product-img product-img-zoom">
-                                                <a href="#">
+                                                <a href="product_detail.asp">
                                                     <img class="default-img img-fluid" src="https://dummyimage.com/500x500/ccc/000" loading="lazy" alt="product-image" loading="lazy" alt="">
                                                     <img class="hover-img img-fluid" src="https://dummyimage.com/500x500/000/fff" loading="lazy" alt="product-hover-image" loading="lazy" alt="">
                                                 </a>
@@ -92,14 +92,14 @@
                                         </div>
                                         <div class="product-content-wrap">
                                             <div class="product-category">
-                                                <a href="#">Product Category</a>
+                                                <a href="shop_by_categories.asp">Product Category</a>
                                             </div>
                                             <h2><a href="#">Product Name Here</a></h2>
                                             <div class="product-price">
                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                             </div>
                                             <div class="product-action-1 show">
-                                                <a aria-label="Add To Cart" class="action-btn hover-up" href="#"><i class="fi-rs-shopping-bag-add"></i></a>
+                                                <a aria-label="Add To Cart" class="action-btn hover-up" href="cart.asp"><i class="fi-rs-shopping-bag-add"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -119,14 +119,14 @@
                                         </div>
                                         <div class="product-content-wrap">
                                             <div class="product-category">
-                                                <a href="#">Product Category</a>
+                                                <a href="shop_by_categories.asp">Product Category</a>
                                             </div>
                                             <h2><a href="#">Product Name Here</a></h2>
                                             <div class="product-price">
                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                             </div>
                                             <div class="product-action-1 show">
-                                                <a aria-label="Add To Cart" class="action-btn hover-up" href="#"><i class="fi-rs-shopping-bag-add"></i></a>
+                                                <a aria-label="Add To Cart" class="action-btn hover-up" href="cart.asp"><i class="fi-rs-shopping-bag-add"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -135,7 +135,7 @@
                                     <div class="product-cart-wrap mb-30">
                                         <div class="product-img-action-wrap">
                                             <div class="product-img product-img-zoom">
-                                                <a href="#">
+                                                <a href="product_detail.asp">
                                                     <img class="default-img img-fluid" src="https://dummyimage.com/500x500/ccc/000" loading="lazy" alt="product-image" loading="lazy" alt="">
                                                     <img class="hover-img img-fluid" src="https://dummyimage.com/500x500/000/fff" loading="lazy" alt="product-hover-image" loading="lazy" alt="">
                                                 </a>
@@ -146,14 +146,14 @@
                                         </div>
                                         <div class="product-content-wrap">
                                             <div class="product-category">
-                                                <a href="#">Product Category</a>
+                                                <a href="shop_by_categories.asp">Product Category</a>
                                             </div>
-                                            <h2><a href="#">Product Name Here</a></h2>
+                                            <h2><a href="product_detail.asp">Product Name Here</a></h2>
                                             <div class="product-price">
                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                             </div>
                                             <div class="product-action-1 show">
-                                                <a aria-label="Add To Cart" class="action-btn hover-up" href="#"><i class="fi-rs-shopping-bag-add"></i></a>
+                                                <a aria-label="Add To Cart" class="action-btn hover-up" href="cart.asp"><i class="fi-rs-shopping-bag-add"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -162,7 +162,7 @@
                                     <div class="product-cart-wrap mb-30">
                                         <div class="product-img-action-wrap">
                                             <div class="product-img product-img-zoom">
-                                                <a href="#">
+                                                <a href="product_detail.asp">
                                                     <img class="default-img img-fluid" src="https://dummyimage.com/500x500/ccc/000" loading="lazy" alt="product-image" loading="lazy" alt="">
                                                     <img class="hover-img img-fluid" src="https://dummyimage.com/500x500/000/fff" loading="lazy" alt="product-hover-image" loading="lazy" alt="">
                                                 </a>
@@ -173,14 +173,14 @@
                                         </div>
                                         <div class="product-content-wrap">
                                             <div class="product-category">
-                                                <a href="#">Product Category</a>
+                                                <a href="shop_by_categories.asp">Product Category</a>
                                             </div>
                                             <h2><a href="#">Product Name Here</a></h2>
                                             <div class="product-price">
                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                             </div>
                                             <div class="product-action-1 show">
-                                                <a aria-label="Add To Cart" class="action-btn hover-up" href="#"><i class="fi-rs-shopping-bag-add"></i></a>
+                                                <a aria-label="Add To Cart" class="action-btn hover-up" href="cart.asp"><i class="fi-rs-shopping-bag-add"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -189,7 +189,7 @@
                                     <div class="product-cart-wrap mb-30">
                                         <div class="product-img-action-wrap">
                                             <div class="product-img product-img-zoom">
-                                                <a href="#">
+                                                <a href="product_detail.asp">
                                                     <img class="default-img img-fluid" src="https://dummyimage.com/500x500/ccc/000" loading="lazy" alt="product-image" loading="lazy" alt="">
                                                     <img class="hover-img img-fluid" src="https://dummyimage.com/500x500/000/fff" loading="lazy" alt="product-hover-image" loading="lazy" alt="">
                                                 </a>
@@ -200,14 +200,14 @@
                                         </div>
                                         <div class="product-content-wrap">
                                             <div class="product-category">
-                                                <a href="#">Product Category</a>
+                                                <a href="shop_by_categories.asp">Product Category</a>
                                             </div>
                                             <h2><a href="#">Product Name Here</a></h2>
                                             <div class="product-price">
                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                             </div>
                                             <div class="product-action-1 show">
-                                                <a aria-label="Add To Cart" class="action-btn hover-up" href="#"><i class="fi-rs-shopping-bag-add"></i></a>
+                                                <a aria-label="Add To Cart" class="action-btn hover-up" href="cart.asp"><i class="fi-rs-shopping-bag-add"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -227,14 +227,14 @@
                                         </div>
                                         <div class="product-content-wrap">
                                             <div class="product-category">
-                                                <a href="#">Product Category</a>
+                                                <a href="shop_by_categories.asp">Product Category</a>
                                             </div>
                                             <h2><a href="#">Product Name Here</a></h2>
                                             <div class="product-price">
                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                             </div>
                                             <div class="product-action-1 show">
-                                                <a aria-label="Add To Cart" class="action-btn hover-up" href="#"><i class="fi-rs-shopping-bag-add"></i></a>
+                                                <a aria-label="Add To Cart" class="action-btn hover-up" href="cart.asp"><i class="fi-rs-shopping-bag-add"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -243,7 +243,7 @@
                                     <div class="product-cart-wrap mb-30">
                                         <div class="product-img-action-wrap">
                                             <div class="product-img product-img-zoom">
-                                                <a href="#">
+                                                <a href="product_detail.asp">
                                                     <img class="default-img img-fluid" src="https://dummyimage.com/500x500/ccc/000" loading="lazy" alt="product-image" loading="lazy" alt="">
                                                     <img class="hover-img img-fluid" src="https://dummyimage.com/500x500/000/fff" loading="lazy" alt="product-hover-image" loading="lazy" alt="">
                                                 </a>
@@ -254,14 +254,14 @@
                                         </div>
                                         <div class="product-content-wrap">
                                             <div class="product-category">
-                                                <a href="#">Product Category</a>
+                                                <a href="shop_by_categories.asp">Product Category</a>
                                             </div>
                                             <h2><a href="#">Product Name Here</a></h2>
                                             <div class="product-price">
                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                             </div>
                                             <div class="product-action-1 show">
-                                                <a aria-label="Add To Cart" class="action-btn hover-up" href="#"><i class="fi-rs-shopping-bag-add"></i></a>
+                                                <a aria-label="Add To Cart" class="action-btn hover-up" href="cart.asp"><i class="fi-rs-shopping-bag-add"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -270,7 +270,7 @@
                                     <div class="product-cart-wrap mb-30">
                                         <div class="product-img-action-wrap">
                                             <div class="product-img product-img-zoom">
-                                                <a href="#">
+                                                <a href="product_detail.asp">
                                                     <img class="default-img img-fluid" src="https://dummyimage.com/500x500/ccc/000" loading="lazy" alt="product-image" loading="lazy" alt="">
                                                     <img class="hover-img img-fluid" src="https://dummyimage.com/500x500/000/fff" loading="lazy" alt="product-hover-image" loading="lazy" alt="">
                                                 </a>
@@ -281,14 +281,14 @@
                                         </div>
                                         <div class="product-content-wrap">
                                             <div class="product-category">
-                                                <a href="#">Product Category</a>
+                                                <a href="shop_by_categories.asp">Product Category</a>
                                             </div>
                                             <h2><a href="#">Product Name Here</a></h2>
                                             <div class="product-price">
                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                             </div>
                                             <div class="product-action-1 show">
-                                                <a aria-label="Add To Cart" class="action-btn hover-up" href="#"><i class="fi-rs-shopping-bag-add"></i></a>
+                                                <a aria-label="Add To Cart" class="action-btn hover-up" href="cart.asp"><i class="fi-rs-shopping-bag-add"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -297,7 +297,7 @@
                                     <div class="product-cart-wrap mb-30">
                                         <div class="product-img-action-wrap">
                                             <div class="product-img product-img-zoom">
-                                                <a href="#">
+                                                <a href="product_detail.asp">
                                                     <img class="default-img img-fluid" src="https://dummyimage.com/500x500/ccc/000" loading="lazy" alt="product-image" loading="lazy" alt="">
                                                     <img class="hover-img img-fluid" src="https://dummyimage.com/500x500/000/fff" loading="lazy" alt="product-hover-image" loading="lazy" alt="">
                                                 </a>
@@ -308,14 +308,14 @@
                                         </div>
                                         <div class="product-content-wrap">
                                             <div class="product-category">
-                                                <a href="#">Product Category</a>
+                                                <a href="shop_by_categories.asp">Product Category</a>
                                             </div>
                                             <h2><a href="#">Product Name Here</a></h2>
                                             <div class="product-price">
                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                             </div>
                                             <div class="product-action-1 show">
-                                                <a aria-label="Add To Cart" class="action-btn hover-up" href="#"><i class="fi-rs-shopping-bag-add"></i></a>
+                                                <a aria-label="Add To Cart" class="action-btn hover-up" href="cart.asp"><i class="fi-rs-shopping-bag-add"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -335,14 +335,14 @@
                                         </div>
                                         <div class="product-content-wrap">
                                             <div class="product-category">
-                                                <a href="#">Product Category</a>
+                                                <a href="shop_by_categories.asp">Product Category</a>
                                             </div>
                                             <h2><a href="#">Product Name Here</a></h2>
                                             <div class="product-price">
                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                             </div>
                                             <div class="product-action-1 show">
-                                                <a aria-label="Add To Cart" class="action-btn hover-up" href="#"><i class="fi-rs-shopping-bag-add"></i></a>
+                                                <a aria-label="Add To Cart" class="action-btn hover-up" href="cart.asp"><i class="fi-rs-shopping-bag-add"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -351,7 +351,7 @@
                                     <div class="product-cart-wrap mb-30">
                                         <div class="product-img-action-wrap">
                                             <div class="product-img product-img-zoom">
-                                                <a href="#">
+                                                <a href="product_detail.asp">
                                                     <img class="default-img img-fluid" src="https://dummyimage.com/500x500/ccc/000" loading="lazy" alt="product-image" loading="lazy" alt="">
                                                     <img class="hover-img img-fluid" src="https://dummyimage.com/500x500/000/fff" loading="lazy" alt="product-hover-image" loading="lazy" alt="">
                                                 </a>
@@ -362,14 +362,14 @@
                                         </div>
                                         <div class="product-content-wrap">
                                             <div class="product-category">
-                                                <a href="#">Product Category</a>
+                                                <a href="shop_by_categories.asp">Product Category</a>
                                             </div>
                                             <h2><a href="#">Product Name Here</a></h2>
                                             <div class="product-price">
                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                             </div>
                                             <div class="product-action-1 show">
-                                                <a aria-label="Add To Cart" class="action-btn hover-up" href="#"><i class="fi-rs-shopping-bag-add"></i></a>
+                                                <a aria-label="Add To Cart" class="action-btn hover-up" href="cart.asp"><i class="fi-rs-shopping-bag-add"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -378,7 +378,7 @@
                                     <div class="product-cart-wrap mb-30">
                                         <div class="product-img-action-wrap">
                                             <div class="product-img product-img-zoom">
-                                                <a href="#">
+                                                <a href="product_detail.asp">
                                                     <img class="default-img img-fluid" src="https://dummyimage.com/500x500/ccc/000" loading="lazy" alt="product-image" loading="lazy" alt="">
                                                     <img class="hover-img img-fluid" src="https://dummyimage.com/500x500/000/fff" loading="lazy" alt="product-hover-image" loading="lazy" alt="">
                                                 </a>
@@ -389,14 +389,14 @@
                                         </div>
                                         <div class="product-content-wrap">
                                             <div class="product-category">
-                                                <a href="#">Product Category</a>
+                                                <a href="shop_by_categories.asp">Product Category</a>
                                             </div>
                                             <h2><a href="#">Product Name Here</a></h2>
                                             <div class="product-price">
                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                             </div>
                                             <div class="product-action-1 show">
-                                                <a aria-label="Add To Cart" class="action-btn hover-up" href="#"><i class="fi-rs-shopping-bag-add"></i></a>
+                                                <a aria-label="Add To Cart" class="action-btn hover-up" href="cart.asp"><i class="fi-rs-shopping-bag-add"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -405,7 +405,7 @@
                                     <div class="product-cart-wrap mb-30">
                                         <div class="product-img-action-wrap">
                                             <div class="product-img product-img-zoom">
-                                                <a href="#">
+                                                <a href="product_detail.asp">
                                                     <img class="default-img img-fluid" src="https://dummyimage.com/500x500/ccc/000" loading="lazy" alt="product-image" loading="lazy" alt="">
                                                     <img class="hover-img img-fluid" src="https://dummyimage.com/500x500/000/fff" loading="lazy" alt="product-hover-image" loading="lazy" alt="">
                                                 </a>
@@ -416,14 +416,14 @@
                                         </div>
                                         <div class="product-content-wrap">
                                             <div class="product-category">
-                                                <a href="#">Product Category</a>
+                                                <a href="shop_by_categories.asp">Product Category</a>
                                             </div>
                                             <h2><a href="#">Product Name Here</a></h2>
                                             <div class="product-price">
                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                             </div>
                                             <div class="product-action-1 show">
-                                                <a aria-label="Add To Cart" class="action-btn hover-up" href="#"><i class="fi-rs-shopping-bag-add"></i></a>
+                                                <a aria-label="Add To Cart" class="action-btn hover-up" href="cart.asp"><i class="fi-rs-shopping-bag-add"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -443,14 +443,14 @@
                                         </div>
                                         <div class="product-content-wrap">
                                             <div class="product-category">
-                                                <a href="#">Product Category</a>
+                                                <a href="shop_by_categories.asp">Product Category</a>
                                             </div>
                                             <h2><a href="#">Product Name Here</a></h2>
                                             <div class="product-price">
                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                             </div>
                                             <div class="product-action-1 show">
-                                                <a aria-label="Add To Cart" class="action-btn hover-up" href="#"><i class="fi-rs-shopping-bag-add"></i></a>
+                                                <a aria-label="Add To Cart" class="action-btn hover-up" href="cart.asp"><i class="fi-rs-shopping-bag-add"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -459,7 +459,7 @@
                                     <div class="product-cart-wrap mb-30">
                                         <div class="product-img-action-wrap">
                                             <div class="product-img product-img-zoom">
-                                                <a href="#">
+                                                <a href="product_detail.asp">
                                                     <img class="default-img img-fluid" src="https://dummyimage.com/500x500/ccc/000" loading="lazy" alt="product-image" loading="lazy" alt="">
                                                     <img class="hover-img img-fluid" src="https://dummyimage.com/500x500/000/fff" loading="lazy" alt="product-hover-image" loading="lazy" alt="">
                                                 </a>
@@ -470,14 +470,14 @@
                                         </div>
                                         <div class="product-content-wrap">
                                             <div class="product-category">
-                                                <a href="#">Product Category</a>
+                                                <a href="shop_by_categories.asp">Product Category</a>
                                             </div>
                                             <h2><a href="#">Product Name Here</a></h2>
                                             <div class="product-price">
                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                             </div>
                                             <div class="product-action-1 show">
-                                                <a aria-label="Add To Cart" class="action-btn hover-up" href="#"><i class="fi-rs-shopping-bag-add"></i></a>
+                                                <a aria-label="Add To Cart" class="action-btn hover-up" href="cart.asp"><i class="fi-rs-shopping-bag-add"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -486,7 +486,7 @@
                                     <div class="product-cart-wrap mb-30">
                                         <div class="product-img-action-wrap">
                                             <div class="product-img product-img-zoom">
-                                                <a href="#">
+                                                <a href="product_detail.asp">
                                                     <img class="default-img img-fluid" src="https://dummyimage.com/500x500/ccc/000" loading="lazy" alt="product-image" loading="lazy" alt="">
                                                     <img class="hover-img img-fluid" src="https://dummyimage.com/500x500/000/fff" loading="lazy" alt="product-hover-image" loading="lazy" alt="">
                                                 </a>
@@ -497,14 +497,14 @@
                                         </div>
                                         <div class="product-content-wrap">
                                             <div class="product-category">
-                                                <a href="#">Product Category</a>
+                                                <a href="shop_by_categories.asp">Product Category</a>
                                             </div>
                                             <h2><a href="#">Product Name Here</a></h2>
                                             <div class="product-price">
                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                             </div>
                                             <div class="product-action-1 show">
-                                                <a aria-label="Add To Cart" class="action-btn hover-up" href="#"><i class="fi-rs-shopping-bag-add"></i></a>
+                                                <a aria-label="Add To Cart" class="action-btn hover-up" href="cart.asp"><i class="fi-rs-shopping-bag-add"></i></a>
                                             </div>
                                         </div>
                                     </div>
