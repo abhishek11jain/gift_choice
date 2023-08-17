@@ -7,7 +7,7 @@
                         <div class="col-xl-9 col-lg-9">
                             <div class="header-info">
                                 <ul>
-                                    <li><i class="fi-rs-smartphone"></i> <a href="tel:(+91)9001097357">(+91) 90010-97357</a></li>
+                                    <li><i class="fi-rs-smartphone"></i> <a href="tel:(+91)9001097357">(+91) 90010-97357</a> <span class="pl-5">(10:00AM to 8:00PM)</span></li>
                                     <li><i class="fi-rs-marker"></i><a href="https://goo.gl/maps/kRtQzQX6ASj5CYfJ7">Bhilwara Furniture House Near Sitaram Ji Ki Bawri, Bhilwara,311001- Rajasthan, INDIA</a></li>
                                 </ul>
                             </div>
@@ -78,7 +78,7 @@
                 <div class="container-fluid">
                     <div class="header-wrap justify-content-center position-relative mobile-justify-content-between">
                         <div class="logo logo-width-1 d-block d-lg-none">
-                            <a href="index.asp"><img src="assets/imgs/resources/gift-choice.png" alt="logo"></a>
+                            <a href="index.asp"><img src="assets/imgs/resources/gift-choice-vertical.png" alt="logo"></a>
                         </div>
 
                         <div class="header-nav  d-none d-lg-flex">
@@ -167,6 +167,16 @@
                     </div>
                 </div>
             </div>
+            <div class="searchbar-section d-lg-none d-sm-none d-block pt-3 pb-3">
+                <div class="container-fluid">
+                    <div class="search-style-3">
+                        <form action="#" class="mb-0">
+                            <input type="text" placeholder="Search for items…">
+                            <button type="submit"><i class="fi-rs-search"></i></button>
+                        </form>
+                    </div>
+                </div>
+            </div>
         <!-- Header Bottom End -->
         
     </header>
@@ -176,7 +186,7 @@
         <div class="mobile-header-wrapper-inner">
             <div class="mobile-header-top">
                 <div class="mobile-header-logo">
-                    <a href="index.asp"><img src="assets/imgs/theme/logo.svg" alt="logo"></a>
+                    <a href="index.asp"><img src="assets/imgs/resources/gift-choice-vertical.png" alt="logo"></a>
                 </div>
                 <div class="mobile-menu-close close-style-wrap close-style-position-inherit">
                     <button class="close-style search-close">
@@ -186,12 +196,6 @@
                 </div>
             </div>
             <div class="mobile-header-content-area">
-                <div class="mobile-search search-style-3 mobile-header-border">
-                    <form action="#">
-                        <input type="text" placeholder="Search for items…">
-                        <button type="submit"><i class="fi-rs-search"></i></button>
-                    </form>
-                </div>
                 <div class="mobile-menu-wrap mobile-header-border">
                     <nav>
                         <ul class="mobile-menu">
@@ -273,7 +277,8 @@
 
                     <div class="single-mobile-header-info">
                         <p class="mb-0"><i class="fa fa-mobile" aria-hidden="true"></i> Contact No.</p>
-                        <a href="#">+91 79769-48872</a>
+                        <a href="#">+91 79769-48872</a> 
+                        <span><i class="fa fa-clock-o" aria-hidden="true"></i> 10:00AM to 8:00PM</span>
                     </div>
 
                     <hr>

@@ -9918,6 +9918,10 @@ span.fi-rs-apps {
 }
 
 @media only screen and (max-width : 767px){
+  .logo.logo-width-1 a img{
+    min-width : 95px !important;
+    width: 95px !important;
+  }
   .product-cart-wrap .product-content-wrap h2 {
     font-size: 12px;
     display: -webkit-box;
@@ -9990,5 +9994,24 @@ span.fi-rs-apps {
 }
 .w-auto{
   width: auto !important;
+}
+
+.mobile-social-icon .fa{
+  height: 35px;
+  background-color: #088178;
+  border-radius: 5px;
+  color: #fff;
+  text-align: center;
+  padding: 8px 0 0 0 ;
+  width: 35px;
+}
+.header-info .fa{
+  height: 25px;
+  width: 25px;
+  background: #088178;
+  border-radius: 4px;
+  padding: 9px 0 0 0 ;
+  color: #fff;
+  text-align: center;
 }
 /*# sourceMappingURL=main.css.map */

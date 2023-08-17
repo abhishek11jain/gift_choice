@@ -427,23 +427,86 @@
                 <!-- Advertisement Start -->
                     <section class="banners section-padding">
                         <div class="container">
-                            <div class="row">
+                            <div class="row g-2 gx-3">
                                 <div class="col-lg-4 col-md-6">
-                                    <div class="banner-img wow fadeIn animated">
+                                    <div class="banner-img mb-0 wow fadeIn animated">
                                         <a href="#">
                                             <img src="https://dummyimage.com/600x250/ccc/000" loading="lazy" alt="advertisement-image" class="img-fluid rounded-5">
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6">
-                                    <div class="banner-img wow fadeIn animated">
+                                    <div class="banner-img mb-0 wow fadeIn animated">
                                         <a href="#">
                                             <img src="https://dummyimage.com/600x250/ccc/000" loading="lazy" alt="advertisement-image" class="img-fluid rounded-5">
                                         </a>
                                     </div>
                                 </div>
-                                <div class="col-lg-4 d-md-none d-lg-flex">
-                                    <div class="banner-img wow fadeIn animated  mb-sm-0">
+                                <div class="col-lg-4 col-md-6">
+                                    <div class="banner-img mb-0 wow fadeIn animated  mb-sm-0">
+                                        <a href="#">
+                                            <img src="https://dummyimage.com/600x250/ccc/000" loading="lazy" alt="advertisement-image" class="img-fluid rounded-5">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6">
+                                    <div class="banner-img mb-0 wow fadeIn animated">
+                                        <a href="#">
+                                            <img src="https://dummyimage.com/600x250/ccc/000" loading="lazy" alt="advertisement-image" class="img-fluid rounded-5">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6">
+                                    <div class="banner-img mb-0 wow fadeIn animated">
+                                        <a href="#">
+                                            <img src="https://dummyimage.com/600x250/ccc/000" loading="lazy" alt="advertisement-image" class="img-fluid rounded-5">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6">
+                                    <div class="banner-img mb-0 wow fadeIn animated  mb-sm-0">
+                                        <a href="#">
+                                            <img src="https://dummyimage.com/600x250/ccc/000" loading="lazy" alt="advertisement-image" class="img-fluid rounded-5">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6">
+                                    <div class="banner-img mb-0 wow fadeIn animated">
+                                        <a href="#">
+                                            <img src="https://dummyimage.com/600x250/ccc/000" loading="lazy" alt="advertisement-image" class="img-fluid rounded-5">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6">
+                                    <div class="banner-img mb-0 wow fadeIn animated">
+                                        <a href="#">
+                                            <img src="https://dummyimage.com/600x250/ccc/000" loading="lazy" alt="advertisement-image" class="img-fluid rounded-5">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6">
+                                    <div class="banner-img mb-0 wow fadeIn animated  mb-sm-0">
+                                        <a href="#">
+                                            <img src="https://dummyimage.com/600x250/ccc/000" loading="lazy" alt="advertisement-image" class="img-fluid rounded-5">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6">
+                                    <div class="banner-img mb-0 wow fadeIn animated">
+                                        <a href="#">
+                                            <img src="https://dummyimage.com/600x250/ccc/000" loading="lazy" alt="advertisement-image" class="img-fluid rounded-5">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6">
+                                    <div class="banner-img mb-0 wow fadeIn animated">
+                                        <a href="#">
+                                            <img src="https://dummyimage.com/600x250/ccc/000" loading="lazy" alt="advertisement-image" class="img-fluid rounded-5">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6">
+                                    <div class="banner-img mb-0 wow fadeIn animated  mb-sm-0">
                                         <a href="#">
                                             <img src="https://dummyimage.com/600x250/ccc/000" loading="lazy" alt="advertisement-image" class="img-fluid rounded-5">
                                         </a>
@@ -452,238 +515,7 @@
                             </div>
                         </div>
                     </section>
-                <!-- Advertisement End -->
-
-
-                <!-- Products Section Start -->
-                    <section class="product-tabs section-padding bg-light fadeIn animated">
-                        <div class="container">
-                            <h3 class="section-title mb-20">Best Collections</h3>
-                            <div class="tab-content wow fadeIn animated">
-                                <div class="tab-pane fade show active" id="tab-one" role="tabpanel" aria-labelledby="tab-one">
-                                    <div class="row product-grid-4">
-                                        <div class="col-lg-3 col-6 col-sm-4">
-                                            <div class="product-cart-wrap mb-30">
-                                                <div class="product-img-action-wrap">
-                                                    <div class="product-img product-img-zoom">
-                                                        <a href="product_detail.asp">
-                                                            <img class="default-img img-fluid" src="https://dummyimage.com/500x500/ccc/000" loading="lazy" alt="product-image" loading="lazy" alt="">
-                                                            <img class="hover-img img-fluid" src="https://dummyimage.com/500x500/000/fff" loading="lazy" alt="product-hover-image" loading="lazy" alt="">
-                                                        </a>
-                                                    </div>
-                                                    <div class="product-badges product-badges-position product-badges-mrg">
-                                                        <span class="hot">New Launch</span>
-                                                    </div>
-                                                </div>
-                                                <div class="product-content-wrap">
-                                                    <div class="product-category">
-                                                        <a href="shop_by_categories.asp">Product Category</a>
-                                                    </div>
-                                                    <h2><a href="product_detail.asp">Product Name Here</a></h2>
-                                                    <div class="product-price">
-                                                        <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
-                                                    </div>
-                                                    <div class="product-action-1 show">
-                                                        <a aria-label="Add To Cart" class="action-btn hover-up" href="cart.asp"><i class="fi-rs-shopping-bag-add"></i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-3 col-6 col-sm-4">
-                                            <div class="product-cart-wrap mb-30">
-                                                <div class="product-img-action-wrap">
-                                                    <div class="product-img product-img-zoom">
-                                                        <a href="product_detail.asp">
-                                                            <img class="default-img img-fluid" src="https://dummyimage.com/500x500/ccc/000" loading="lazy" alt="product-image">
-                                                            <img class="hover-img img-fluid" src="https://dummyimage.com/500x500/000/fff" loading="lazy" alt="product-hover-image">
-                                                        </a>
-                                                    </div>
-                                                    <div class="product-badges product-badges-position product-badges-mrg">
-                                                        <span class="hot">New Launch</span>
-                                                    </div>
-                                                </div>
-                                                <div class="product-content-wrap">
-                                                    <div class="product-category">
-                                                        <a href="shop_by_categories.asp">Product Category</a>
-                                                    </div>
-                                                    <h2><a href="product_detail.asp">Product Name Here</a></h2>
-                                                    <div class="product-price">
-                                                        <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
-                                                    </div>
-                                                    <div class="product-action-1 show">
-                                                        <a aria-label="Add To Cart" class="action-btn hover-up" href="cart.asp"><i class="fi-rs-shopping-bag-add"></i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-3 col-6 col-sm-4">
-                                            <div class="product-cart-wrap mb-30">
-                                                <div class="product-img-action-wrap">
-                                                    <div class="product-img product-img-zoom">
-                                                        <a href="product_detail.asp">
-                                                            <img class="default-img img-fluid" src="https://dummyimage.com/500x500/ccc/000" loading="lazy" alt="product-image" loading="lazy" alt="">
-                                                            <img class="hover-img img-fluid" src="https://dummyimage.com/500x500/000/fff" loading="lazy" alt="product-hover-image" loading="lazy" alt="">
-                                                        </a>
-                                                    </div>
-                                                    <div class="product-badges product-badges-position product-badges-mrg">
-                                                        <span class="hot">New Launch</span>
-                                                    </div>
-                                                </div>
-                                                <div class="product-content-wrap">
-                                                    <div class="product-category">
-                                                        <a href="shop_by_categories.asp">Product Category</a>
-                                                    </div>
-                                                    <h2><a href="product_detail.asp">Product Name Here</a></h2>
-                                                    <div class="product-price">
-                                                        <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
-                                                    </div>
-                                                    <div class="product-action-1 show">
-                                                        <a aria-label="Add To Cart" class="action-btn hover-up" href="cart.asp"><i class="fi-rs-shopping-bag-add"></i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-3 col-6 col-sm-4">
-                                            <div class="product-cart-wrap mb-30">
-                                                <div class="product-img-action-wrap">
-                                                    <div class="product-img product-img-zoom">
-                                                        <a href="product_detail.asp">
-                                                            <img class="default-img img-fluid" src="https://dummyimage.com/500x500/ccc/000" loading="lazy" alt="product-image" loading="lazy" alt="">
-                                                            <img class="hover-img img-fluid" src="https://dummyimage.com/500x500/000/fff" loading="lazy" alt="product-hover-image" loading="lazy" alt="">
-                                                        </a>
-                                                    </div>
-                                                    <div class="product-badges product-badges-position product-badges-mrg">
-                                                        <span class="hot">New Launch</span>
-                                                    </div>
-                                                </div>
-                                                <div class="product-content-wrap">
-                                                    <div class="product-category">
-                                                        <a href="shop_by_categories.asp">Product Category</a>
-                                                    </div>
-                                                    <h2><a href="product_detail.asp">Product Name Here</a></h2>
-                                                    <div class="product-price">
-                                                        <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
-                                                    </div>
-                                                    <div class="product-action-1 show">
-                                                        <a aria-label="Add To Cart" class="action-btn hover-up" href="cart.asp"><i class="fi-rs-shopping-bag-add"></i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-3 col-6 col-sm-4">
-                                            <div class="product-cart-wrap mb-30">
-                                                <div class="product-img-action-wrap">
-                                                    <div class="product-img product-img-zoom">
-                                                        <a href="product_detail.asp">
-                                                            <img class="default-img img-fluid" src="https://dummyimage.com/500x500/ccc/000" loading="lazy" alt="product-image" loading="lazy" alt="">
-                                                            <img class="hover-img img-fluid" src="https://dummyimage.com/500x500/000/fff" loading="lazy" alt="product-hover-image" loading="lazy" alt="">
-                                                        </a>
-                                                    </div>
-                                                    <div class="product-badges product-badges-position product-badges-mrg">
-                                                        <span class="hot">New Launch</span>
-                                                    </div>
-                                                </div>
-                                                <div class="product-content-wrap">
-                                                    <div class="product-category">
-                                                        <a href="shop_by_categories.asp">Product Category</a>
-                                                    </div>
-                                                    <h2><a href="product_detail.asp">Product Name Here</a></h2>
-                                                    <div class="product-price">
-                                                        <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
-                                                    </div>
-                                                    <div class="product-action-1 show">
-                                                        <a aria-label="Add To Cart" class="action-btn hover-up" href="cart.asp"><i class="fi-rs-shopping-bag-add"></i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-3 col-6 col-sm-4">
-                                            <div class="product-cart-wrap mb-30">
-                                                <div class="product-img-action-wrap">
-                                                    <div class="product-img product-img-zoom">
-                                                        <a href="product_detail.asp">
-                                                            <img class="default-img img-fluid" src="https://dummyimage.com/500x500/ccc/000" loading="lazy" alt="product-image" loading="lazy" alt="">
-                                                            <img class="hover-img img-fluid" src="https://dummyimage.com/500x500/000/fff" loading="lazy" alt="product-hover-image" loading="lazy" alt="">
-                                                        </a>
-                                                    </div>
-                                                    <div class="product-badges product-badges-position product-badges-mrg">
-                                                        <span class="hot">New Launch</span>
-                                                    </div>
-                                                </div>
-                                                <div class="product-content-wrap">
-                                                    <div class="product-category">
-                                                        <a href="shop_by_categories.asp">Product Category</a>
-                                                    </div>
-                                                    <h2><a href="product_detail.asp">Product Name Here</a></h2>
-                                                    <div class="product-price">
-                                                        <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
-                                                    </div>
-                                                    <div class="product-action-1 show">
-                                                        <a aria-label="Add To Cart" class="action-btn hover-up" href="cart.asp"><i class="fi-rs-shopping-bag-add"></i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-3 col-6 col-sm-4">
-                                            <div class="product-cart-wrap mb-30">
-                                                <div class="product-img-action-wrap">
-                                                    <div class="product-img product-img-zoom">
-                                                        <a href="product_detail.asp">
-                                                            <img class="default-img img-fluid" src="https://dummyimage.com/500x500/ccc/000" loading="lazy" alt="product-image" loading="lazy" alt="">
-                                                            <img class="hover-img img-fluid" src="https://dummyimage.com/500x500/000/fff" loading="lazy" alt="product-hover-image" loading="lazy" alt="">
-                                                        </a>
-                                                    </div>
-                                                    <div class="product-badges product-badges-position product-badges-mrg">
-                                                        <span class="hot">New Launch</span>
-                                                    </div>
-                                                </div>
-                                                <div class="product-content-wrap">
-                                                    <div class="product-category">
-                                                        <a href="shop_by_categories.asp">Product Category</a>
-                                                    </div>
-                                                    <h2><a href="product_detail.asp">Product Name Here</a></h2>
-                                                    <div class="product-price">
-                                                        <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
-                                                    </div>
-                                                    <div class="product-action-1 show">
-                                                        <a aria-label="Add To Cart" class="action-btn hover-up" href="cart.asp"><i class="fi-rs-shopping-bag-add"></i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-3 col-6 col-sm-4">
-                                            <div class="product-cart-wrap mb-30">
-                                                <div class="product-img-action-wrap">
-                                                    <div class="product-img product-img-zoom">
-                                                        <a href="product_detail.asp">
-                                                            <img class="default-img img-fluid" src="https://dummyimage.com/500x500/ccc/000" loading="lazy" alt="product-image" loading="lazy" alt="">
-                                                            <img class="hover-img img-fluid" src="https://dummyimage.com/500x500/000/fff" loading="lazy" alt="product-hover-image" loading="lazy" alt="">
-                                                        </a>
-                                                    </div>
-                                                    <div class="product-badges product-badges-position product-badges-mrg">
-                                                        <span class="hot">New Launch</span>
-                                                    </div>
-                                                </div>
-                                                <div class="product-content-wrap">
-                                                    <div class="product-category">
-                                                        <a href="shop_by_categories.asp">Product Category</a>
-                                                    </div>
-                                                    <h2><a href="product_detail.asp">Product Name Here</a></h2>
-                                                    <div class="product-price">
-                                                        <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
-                                                    </div>
-                                                    <div class="product-action-1 show">
-                                                        <a aria-label="Add To Cart" class="action-btn hover-up" href="cart.asp"><i class="fi-rs-shopping-bag-add"></i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                <!-- Products Section End -->         
+                <!-- Advertisement End -->    
 
 
             </main>
