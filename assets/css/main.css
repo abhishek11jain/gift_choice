@@ -10014,4 +10014,8 @@ span.fi-rs-apps {
   color: #fff;
   text-align: center;
 }
+
+.text-justify{
+  text-align: justify !important;
+}
 /*# sourceMappingURL=main.css.map */

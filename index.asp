@@ -427,88 +427,74 @@
                 <!-- Advertisement Start -->
                     <section class="banners section-padding">
                         <div class="container">
-                            <div class="row g-2 gx-3">
+                            <div class="row g-2 gx-3 justify-content-center">
                                 <div class="col-lg-4 col-md-6">
-                                    <div class="banner-img mb-0 wow fadeIn animated">
-                                        <a href="#">
-                                            <img src="https://dummyimage.com/600x250/ccc/000" loading="lazy" alt="advertisement-image" class="img-fluid rounded-5">
+                                    <div class="banner-img mb-0 wow fadeIn animated  rounded-3">
+                                        <a href="shop_by_categories.asp">
+                                            <img src="assets/imgs/banners/banner_1.jpg" loading="lazy" alt="advertisement-image" class="img-fluid rounded-3 w-100 border-light border">
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6">
-                                    <div class="banner-img mb-0 wow fadeIn animated">
-                                        <a href="#">
-                                            <img src="https://dummyimage.com/600x250/ccc/000" loading="lazy" alt="advertisement-image" class="img-fluid rounded-5">
+                                    <div class="banner-img mb-0 wow fadeIn animated  rounded-3">
+                                        <a href="shop_by_categories.asp">
+                                            <img src="assets/imgs/banners/banner_2.jpg" loading="lazy" alt="advertisement-image" class="img-fluid rounded-3 w-100 border-light border">
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6">
-                                    <div class="banner-img mb-0 wow fadeIn animated  mb-sm-0">
-                                        <a href="#">
-                                            <img src="https://dummyimage.com/600x250/ccc/000" loading="lazy" alt="advertisement-image" class="img-fluid rounded-5">
+                                    <div class="banner-img mb-0 wow fadeIn animated  rounded-3  mb-sm-0">
+                                        <a href="shop_by_categories.asp">
+                                            <img src="assets/imgs/banners/banner_3.jpg" loading="lazy" alt="advertisement-image" class="img-fluid rounded-3 w-100 border-light border">
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6">
-                                    <div class="banner-img mb-0 wow fadeIn animated">
-                                        <a href="#">
-                                            <img src="https://dummyimage.com/600x250/ccc/000" loading="lazy" alt="advertisement-image" class="img-fluid rounded-5">
+                                    <div class="banner-img mb-0 wow fadeIn animated  rounded-3">
+                                        <a href="shop_by_categories.asp">
+                                            <img src="assets/imgs/banners/banner_4.jpg" loading="lazy" alt="advertisement-image" class="img-fluid rounded-3 w-100 border-light border">
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6">
-                                    <div class="banner-img mb-0 wow fadeIn animated">
-                                        <a href="#">
-                                            <img src="https://dummyimage.com/600x250/ccc/000" loading="lazy" alt="advertisement-image" class="img-fluid rounded-5">
+                                    <div class="banner-img mb-0 wow fadeIn animated  rounded-3">
+                                        <a href="shop_by_categories.asp">
+                                            <img src="assets/imgs/banners/banner_4.jpg" loading="lazy" alt="advertisement-image" class="img-fluid rounded-3 w-100 border-light border">
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6">
-                                    <div class="banner-img mb-0 wow fadeIn animated  mb-sm-0">
-                                        <a href="#">
-                                            <img src="https://dummyimage.com/600x250/ccc/000" loading="lazy" alt="advertisement-image" class="img-fluid rounded-5">
+                                    <div class="banner-img mb-0 wow fadeIn animated  rounded-3  mb-sm-0">
+                                        <a href="shop_by_categories.asp">
+                                            <img src="assets/imgs/banners/banner_5.jpg" loading="lazy" alt="advertisement-image" class="img-fluid rounded-3 w-100 border-light border">
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6">
-                                    <div class="banner-img mb-0 wow fadeIn animated">
-                                        <a href="#">
-                                            <img src="https://dummyimage.com/600x250/ccc/000" loading="lazy" alt="advertisement-image" class="img-fluid rounded-5">
+                                    <div class="banner-img mb-0 wow fadeIn animated  rounded-3">
+                                        <a href="shop_by_categories.asp">
+                                            <img src="assets/imgs/banners/banner_6.jpg" loading="lazy" alt="advertisement-image" class="img-fluid rounded-3 w-100 border-light border">
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6">
-                                    <div class="banner-img mb-0 wow fadeIn animated">
-                                        <a href="#">
-                                            <img src="https://dummyimage.com/600x250/ccc/000" loading="lazy" alt="advertisement-image" class="img-fluid rounded-5">
+                                    <div class="banner-img mb-0 wow fadeIn animated  rounded-3">
+                                        <a href="shop_by_categories.asp">
+                                            <img src="assets/imgs/banners/banner_7.jpg" loading="lazy" alt="advertisement-image" class="img-fluid rounded-3 w-100 border-light border">
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6">
-                                    <div class="banner-img mb-0 wow fadeIn animated  mb-sm-0">
-                                        <a href="#">
-                                            <img src="https://dummyimage.com/600x250/ccc/000" loading="lazy" alt="advertisement-image" class="img-fluid rounded-5">
+                                    <div class="banner-img mb-0 wow fadeIn animated  rounded-3  mb-sm-0">
+                                        <a href="shop_by_categories.asp">
+                                            <img src="assets/imgs/banners/banner_8.jpg" loading="lazy" alt="advertisement-image" class="img-fluid rounded-3 w-100 border-light border">
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6">
-                                    <div class="banner-img mb-0 wow fadeIn animated">
-                                        <a href="#">
-                                            <img src="https://dummyimage.com/600x250/ccc/000" loading="lazy" alt="advertisement-image" class="img-fluid rounded-5">
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-lg-4 col-md-6">
-                                    <div class="banner-img mb-0 wow fadeIn animated">
-                                        <a href="#">
-                                            <img src="https://dummyimage.com/600x250/ccc/000" loading="lazy" alt="advertisement-image" class="img-fluid rounded-5">
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-lg-4 col-md-6">
-                                    <div class="banner-img mb-0 wow fadeIn animated  mb-sm-0">
-                                        <a href="#">
-                                            <img src="https://dummyimage.com/600x250/ccc/000" loading="lazy" alt="advertisement-image" class="img-fluid rounded-5">
+                                    <div class="banner-img mb-0 wow fadeIn animated  rounded-3">
+                                        <a href="shop_by_categories.asp">
+                                            <img src="assets/imgs/banners/banner_9.jpg" loading="lazy" alt="advertisement-image" class="img-fluid rounded-3 w-100 border-light border">
                                         </a>
                                     </div>
                                 </div>

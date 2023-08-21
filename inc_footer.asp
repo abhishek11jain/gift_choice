@@ -14,13 +14,13 @@
         <section class="section-padding footer-mid">
             <div class="container pt-15 pb-20">
                 <div class="row align-items-center">
-                    <div class="col-lg-6 col-md-6">
+                    <div class="col-lg-5 col-sm-5">
                         <div class="widget-about font-md mb-md-5 mb-lg-0">
                             <div class="logo logo-width-1 wow fadeIn animated">
                                 <a href="index.asp"><img src="assets/imgs/resources/gift-choice-vertical.png" alt="logo" class="img-fluid"></a>
                             </div>
-                            <p class="wow fadeIn animated">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime numquam odit ea modi praesentium natus officia quidem ipsa suscipit sit!
+                            <p class="wow fadeIn animated text-justify">
+                                Discover a world of personalized gifts that make every moment extraordinary. At Gift Choice Bhilwara, we believe in the magic of unique and special presents.
                             </p>
                             <div class="mobile-social-icon wow fadeIn animated mb-sm-5 mt-3 mb-md-0">
                                 <a href="https://www.facebook.com/giftchoicebhl" target="_blank"><i class="fa fa-facebook fs-6" aria-hidden="true"></i></a>
@@ -30,7 +30,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-6">
+                    <div class="offest-lg-2 offset-md-1 col-lg-5 col-sm-5">
                         <h5 class="widget-title wow fadeIn animated">Help &amp; Support</h5>
                         <div class="widget-about font-md mb-md-5 mb-lg-0">
                             <p class="wow fadeIn animated">
