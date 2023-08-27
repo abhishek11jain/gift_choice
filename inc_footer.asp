@@ -23,10 +23,21 @@
                                 Discover a world of personalized gifts that make every moment extraordinary. At Gift Choice Bhilwara, we believe in the magic of unique and special presents.
                             </p>
                             <div class="mobile-social-icon wow fadeIn animated mb-sm-5 mt-3 mb-md-0">
-                                <a href="https://www.facebook.com/giftchoicebhl" target="_blank"><i class="fa fa-facebook fs-6" aria-hidden="true"></i></a>
-                                <a href="https://www.instagram.com/abhumagift" target="_blank"><i class="fa fa-instagram fs-6" aria-hidden="true"></i></a>
-                                <a href="#"><i class="fa fa-whatsapp fs-6" aria-hidden="true"></i></a>
-                                <a href="#"><i class="fa fa-youtube fs-6" aria-hidden="true"></i></a>
+                                <a href="https://www.facebook.com/giftchoicebhl" target="_blank">
+                                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                                </a>
+                                <a href="http://wa.me/+917976948872" target="_blank">
+                                    <i class="fa fa-whatsapp" aria-hidden="true"></i>
+                                </a> 
+                                <a href="https://www.instagram.com/abhumagift" target="_blank">
+                                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                                </a>
+                                <a href="https://g.co/kgs/Tc2NEJ" target="_blank">
+                                    <i class="fa fa-google" aria-hidden="true"></i>
+                                </a>
+                                <a href="https://www.amazon.in/stores/page/7F00F625-0CD6-4CC8-B09A-BD87E2789777?ingress=2&visitId=f5292db0-acc6-4d9d-b57e-bcacef6966f0&ref_=ast_bln" target="_blank"> 
+                                    <i class="fa fa-amazon" aria-hidden="true"></i>
+                                </a>
                             </div>
                         </div>
                     </div>
