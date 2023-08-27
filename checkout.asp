@@ -150,7 +150,7 @@
                                     </table>
                                 </div>
                                 <div class="text-end">
-                                    <a href="#" class="btn btn-fill-out btn-block">Place Order</a>
+                                    <a href="thankyou.asp" class="btn btn-fill-out btn-block">Place Order</a>
                                 </div>
                             </div>
                         </div>

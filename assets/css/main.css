@@ -10018,4 +10018,46 @@ span.fi-rs-apps {
 .text-justify{
   text-align: justify !important;
 }
+
+
+/* Ipad Portrait */
+@media only screen and (device-width : 768px) and (device-height :1024px ) and (orientation : portrait){
+  .mobile-justify-content-between {
+    justify-content: space-between !important;
+  }
+}
+
+/* Ipad Landscape */
+@media only screen and (device-width : 1024px) and (device-height :768px ) and (orientation : landscape){
+  .logo.logo-width-1{
+    width: 100px;
+  }
+  .search-style-2 form{
+    width: 90%;
+  }
+  .header-wrap .header-right{
+    overflow: inherit;
+  }
+  .main-menu > nav > ul > li > a {
+    font-size: 12px;
+    font-weight: 600;
+}
+}
+
+/* Ipad pro Portrait */
+@media only screen and (device-width : 1024px) and (device-height :1366px ) and (orientation : portrait){
+  .logo.logo-width-1{
+    width: 100px;
+  }
+  .search-style-2 form{
+    width: 90%;
+  }
+  .header-wrap .header-right{
+    overflow: inherit;
+  }
+  .main-menu > nav > ul > li > a {
+    font-size: 12px;
+    font-weight: 600;
+}
+}
 /*# sourceMappingURL=main.css.map */

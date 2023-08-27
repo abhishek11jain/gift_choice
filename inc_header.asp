@@ -7,7 +7,7 @@
                         <div class="col-xl-9 col-lg-9">
                             <div class="header-info">
                                 <ul>
-                                    <li><i class="fi-rs-smartphone"></i> <a href="tel:(+91)9001097357">(+91) 90010-97357</a> <span class="pl-5">(10:00AM to 8:00PM)</span></li>
+                                    <!-- <li><i class="fi-rs-smartphone"></i> <a href="tel:(+91)9001097357">(+91) 90010-97357</a> <span class="pl-5">(10:00AM to 8:00PM)</span></li> -->
                                     <li><i class="fi-rs-marker"></i><a href="https://goo.gl/maps/kRtQzQX6ASj5CYfJ7">Bhilwara Furniture House Near Sitaram Ji Ki Bawri, Bhilwara,311001- Rajasthan, INDIA</a></li>
                                 </ul>
                             </div>
@@ -18,22 +18,27 @@
                                     <li> 
                                         <a href="https://www.facebook.com/giftchoicebhl" target="_blank">
                                             <i class="fa fa-facebook" aria-hidden="true"></i>
-                                        </a> 
+                                        </a>
                                     </li>
                                     <li> 
-                                        <a href="#">
+                                        <a href="http://wa.me/+917976948872" target="_blank">
                                             <i class="fa fa-whatsapp" aria-hidden="true"></i>
                                         </a> 
                                     </li>
                                     <li> 
                                         <a href="https://www.instagram.com/abhumagift" target="_blank">
                                             <i class="fa fa-instagram" aria-hidden="true"></i>
-                                        </a> 
+                                        </a>
                                     </li>
                                     <li> 
-                                        <a href="#">
-                                            <i class="fa fa-youtube" aria-hidden="true"></i>
-                                        </a> 
+                                        <a href="https://g.co/kgs/Tc2NEJ" target="_blank">
+                                            <i class="fa fa-google" aria-hidden="true"></i>
+                                        </a>
+                                    </li>
+                                    <li> 
+                                        <a href="https://www.amazon.in/stores/page/7F00F625-0CD6-4CC8-B09A-BD87E2789777?ingress=2&visitId=f5292db0-acc6-4d9d-b57e-bcacef6966f0&ref_=ast_bln" target="_blank"> 
+                                            <i class="fa fa-amazon" aria-hidden="true"></i>
+                                        </a>
                                     </li>
                                 </ul>
                             </div>
@@ -146,7 +151,6 @@
                             </div>
                         </div>
 
-                        <p class="mobile-promotion">Happy <span class="text-brand">Mother's Day</span>. Big Sale Up to 40%</p>
                         <div class="header-action-right d-block d-lg-none">
                             <div class="header-action-2">
                                 <div class="header-action-icon-2">
@@ -167,7 +171,7 @@
                     </div>
                 </div>
             </div>
-            <div class="searchbar-section d-lg-none d-sm-none d-block pt-3 pb-3">
+            <div class="searchbar-section d-lg-none d-sm-block d-block pt-3 pb-3">
                 <div class="container-fluid">
                     <div class="search-style-3">
                         <form action="#" class="mb-0">
@@ -293,14 +297,17 @@
                     <a href="https://www.facebook.com/giftchoicebhl" target="_blank">
                         <i class="fa fa-facebook" aria-hidden="true"></i>
                     </a>
-                    <a href="#">
+                    <a href="http://wa.me/+917976948872" target="_blank">
                         <i class="fa fa-whatsapp" aria-hidden="true"></i>
                     </a> 
                     <a href="https://www.instagram.com/abhumagift" target="_blank">
                         <i class="fa fa-instagram" aria-hidden="true"></i>
                     </a>
-                    <a href="#">
-                        <i class="fa fa-youtube" aria-hidden="true"></i>
+                    <a href="https://g.co/kgs/Tc2NEJ" target="_blank">
+                        <i class="fa fa-google" aria-hidden="true"></i>
+                    </a>
+                    <a href="https://www.amazon.in/stores/page/7F00F625-0CD6-4CC8-B09A-BD87E2789777?ingress=2&visitId=f5292db0-acc6-4d9d-b57e-bcacef6966f0&ref_=ast_bln" target="_blank"> 
+                        <i class="fa fa-amazon" aria-hidden="true"></i>
                     </a>
                 </div>
             </div>

@@ -214,10 +214,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product-content-wrap">
-                                                    <div class="product-category">
-                                                        <a href="shop_by_categories.asp">Product Category</a>
-                                                    </div>
-                                                    <h2><a href="product_detail.asp">Product Name Here</a></h2>
+                                                    <h2 class="mt-2"><a href="product_detail.asp">Product Name Here</a></h2>
                                                     <div class="product-price">
                                                         <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                                     </div>
@@ -241,10 +238,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product-content-wrap">
-                                                    <div class="product-category">
-                                                        <a href="shop_by_categories.asp">Product Category</a>
-                                                    </div>
-                                                    <h2><a href="product_detail.asp">Product Name Here</a></h2>
+                                                    <h2 class="mt-2"><a href="product_detail.asp">Product Name Here</a></h2>
                                                     <div class="product-price">
                                                         <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                                     </div>
@@ -268,10 +262,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product-content-wrap">
-                                                    <div class="product-category">
-                                                        <a href="shop_by_categories.asp">Product Category</a>
-                                                    </div>
-                                                    <h2><a href="product_detail.asp">Product Name Here</a></h2>
+                                                    <h2 class="mt-2"><a href="product_detail.asp">Product Name Here</a></h2>
                                                     <div class="product-price">
                                                         <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                                     </div>
@@ -295,10 +286,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product-content-wrap">
-                                                    <div class="product-category">
-                                                        <a href="shop_by_categories.asp">Product Category</a>
-                                                    </div>
-                                                    <h2><a href="product_detail.asp">Product Name Here</a></h2>
+                                                    <h2 class="mt-2"><a href="product_detail.asp">Product Name Here</a></h2>
                                                     <div class="product-price">
                                                         <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                                     </div>
@@ -322,10 +310,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product-content-wrap">
-                                                    <div class="product-category">
-                                                        <a href="shop_by_categories.asp">Product Category</a>
-                                                    </div>
-                                                    <h2><a href="product_detail.asp">Product Name Here</a></h2>
+                                                    <h2 class="mt-2"><a href="product_detail.asp">Product Name Here</a></h2>
                                                     <div class="product-price">
                                                         <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                                     </div>
@@ -349,10 +334,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product-content-wrap">
-                                                    <div class="product-category">
-                                                        <a href="shop_by_categories.asp">Product Category</a>
-                                                    </div>
-                                                    <h2><a href="product_detail.asp">Product Name Here</a></h2>
+                                                    <h2 class="mt-2"><a href="product_detail.asp">Product Name Here</a></h2>
                                                     <div class="product-price">
                                                         <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                                     </div>
@@ -376,10 +358,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product-content-wrap">
-                                                    <div class="product-category">
-                                                        <a href="shop_by_categories.asp">Product Category</a>
-                                                    </div>
-                                                    <h2><a href="product_detail.asp">Product Name Here</a></h2>
+                                                    <h2 class="mt-2"><a href="product_detail.asp">Product Name Here</a></h2>
                                                     <div class="product-price">
                                                         <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                                     </div>
@@ -403,10 +382,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product-content-wrap">
-                                                    <div class="product-category">
-                                                        <a href="shop_by_categories.asp">Product Category</a>
-                                                    </div>
-                                                    <h2><a href="product_detail.asp">Product Name Here</a></h2>
+                                                    <h2 class="mt-2"><a href="product_detail.asp">Product Name Here</a></h2>
                                                     <div class="product-price">
                                                         <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                                     </div>

@@ -54,7 +54,7 @@
 
                                     <!-- Product Section Start -->
                                         <div class="row mb-50">
-                                            <div class="col-md-6 col-sm-12 col-xs-12">
+                                            <div class="col-lg-6 col-sm-12 col-xs-12">
                                                 <div class="detail-gallery">
 
                                                     <!-- Main Image -->
@@ -97,7 +97,7 @@
                                                 </div>
 
                                             </div>
-                                            <div class="col-md-6 col-sm-12 col-xs-12">
+                                            <div class="col-lg-6 col-sm-12 col-xs-12">
                                                 <div class="detail-info">
                                                     <h2 class="title-detail">Product Name Here</h2>
                                                     <div class="pro-details-brand">
@@ -201,9 +201,6 @@
                                                             </div>
                                                         </div>
                                                         <div class="product-content-wrap">
-                                                            <div class="product-category">
-                                                                <a href="#">Product Category</a>
-                                                            </div>
                                                             <h2><a href="#">Product Name Here</a></h2>
                                                             <div class="product-price">
                                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
@@ -228,9 +225,6 @@
                                                             </div>
                                                         </div>
                                                         <div class="product-content-wrap">
-                                                            <div class="product-category">
-                                                                <a href="#">Product Category</a>
-                                                            </div>
                                                             <h2><a href="#">Product Name Here</a></h2>
                                                             <div class="product-price">
                                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
@@ -255,9 +249,6 @@
                                                             </div>
                                                         </div>
                                                         <div class="product-content-wrap">
-                                                            <div class="product-category">
-                                                                <a href="#">Product Category</a>
-                                                            </div>
                                                             <h2><a href="#">Product Name Here</a></h2>
                                                             <div class="product-price">
                                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
@@ -282,9 +273,6 @@
                                                             </div>
                                                         </div>
                                                         <div class="product-content-wrap">
-                                                            <div class="product-category">
-                                                                <a href="#">Product Category</a>
-                                                            </div>
                                                             <h2><a href="#">Product Name Here</a></h2>
                                                             <div class="product-price">
                                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>

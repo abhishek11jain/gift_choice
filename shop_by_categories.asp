@@ -91,10 +91,7 @@
                                             </div>
                                         </div>
                                         <div class="product-content-wrap">
-                                            <div class="product-category">
-                                                <a href="shop_by_categories.asp">Product Category</a>
-                                            </div>
-                                            <h2><a href="#">Product Name Here</a></h2>
+                                            <h2 class="mt-2"><a href="product_detail.asp">Product Name Here</a></h2>
                                             <div class="product-price">
                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                             </div>
@@ -118,10 +115,7 @@
                                             </div>
                                         </div>
                                         <div class="product-content-wrap">
-                                            <div class="product-category">
-                                                <a href="shop_by_categories.asp">Product Category</a>
-                                            </div>
-                                            <h2><a href="#">Product Name Here</a></h2>
+                                            <h2 class="mt-2"><a href="product_detail.asp">Product Name Here</a></h2>
                                             <div class="product-price">
                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                             </div>
@@ -145,9 +139,7 @@
                                             </div>
                                         </div>
                                         <div class="product-content-wrap">
-                                            <div class="product-category">
-                                                <a href="shop_by_categories.asp">Product Category</a>
-                                            </div>
+
                                             <h2><a href="product_detail.asp">Product Name Here</a></h2>
                                             <div class="product-price">
                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
@@ -172,10 +164,7 @@
                                             </div>
                                         </div>
                                         <div class="product-content-wrap">
-                                            <div class="product-category">
-                                                <a href="shop_by_categories.asp">Product Category</a>
-                                            </div>
-                                            <h2><a href="#">Product Name Here</a></h2>
+                                            <h2 class="mt-2"><a href="product_detail.asp">Product Name Here</a></h2>
                                             <div class="product-price">
                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                             </div>
@@ -199,10 +188,7 @@
                                             </div>
                                         </div>
                                         <div class="product-content-wrap">
-                                            <div class="product-category">
-                                                <a href="shop_by_categories.asp">Product Category</a>
-                                            </div>
-                                            <h2><a href="#">Product Name Here</a></h2>
+                                            <h2 class="mt-2"><a href="product_detail.asp">Product Name Here</a></h2>
                                             <div class="product-price">
                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                             </div>
@@ -226,10 +212,7 @@
                                             </div>
                                         </div>
                                         <div class="product-content-wrap">
-                                            <div class="product-category">
-                                                <a href="shop_by_categories.asp">Product Category</a>
-                                            </div>
-                                            <h2><a href="#">Product Name Here</a></h2>
+                                            <h2 class="mt-2"><a href="product_detail.asp">Product Name Here</a></h2>
                                             <div class="product-price">
                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                             </div>
@@ -253,10 +236,7 @@
                                             </div>
                                         </div>
                                         <div class="product-content-wrap">
-                                            <div class="product-category">
-                                                <a href="shop_by_categories.asp">Product Category</a>
-                                            </div>
-                                            <h2><a href="#">Product Name Here</a></h2>
+                                            <h2 class="mt-2"><a href="product_detail.asp">Product Name Here</a></h2>
                                             <div class="product-price">
                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                             </div>
@@ -280,10 +260,7 @@
                                             </div>
                                         </div>
                                         <div class="product-content-wrap">
-                                            <div class="product-category">
-                                                <a href="shop_by_categories.asp">Product Category</a>
-                                            </div>
-                                            <h2><a href="#">Product Name Here</a></h2>
+                                            <h2 class="mt-2"><a href="product_detail.asp">Product Name Here</a></h2>
                                             <div class="product-price">
                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                             </div>
@@ -307,10 +284,7 @@
                                             </div>
                                         </div>
                                         <div class="product-content-wrap">
-                                            <div class="product-category">
-                                                <a href="shop_by_categories.asp">Product Category</a>
-                                            </div>
-                                            <h2><a href="#">Product Name Here</a></h2>
+                                            <h2 class="mt-2"><a href="product_detail.asp">Product Name Here</a></h2>
                                             <div class="product-price">
                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                             </div>
@@ -334,10 +308,7 @@
                                             </div>
                                         </div>
                                         <div class="product-content-wrap">
-                                            <div class="product-category">
-                                                <a href="shop_by_categories.asp">Product Category</a>
-                                            </div>
-                                            <h2><a href="#">Product Name Here</a></h2>
+                                            <h2 class="mt-2"><a href="product_detail.asp">Product Name Here</a></h2>
                                             <div class="product-price">
                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                             </div>
@@ -361,10 +332,7 @@
                                             </div>
                                         </div>
                                         <div class="product-content-wrap">
-                                            <div class="product-category">
-                                                <a href="shop_by_categories.asp">Product Category</a>
-                                            </div>
-                                            <h2><a href="#">Product Name Here</a></h2>
+                                            <h2 class="mt-2"><a href="product_detail.asp">Product Name Here</a></h2>
                                             <div class="product-price">
                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                             </div>
@@ -388,10 +356,7 @@
                                             </div>
                                         </div>
                                         <div class="product-content-wrap">
-                                            <div class="product-category">
-                                                <a href="shop_by_categories.asp">Product Category</a>
-                                            </div>
-                                            <h2><a href="#">Product Name Here</a></h2>
+                                            <h2 class="mt-2"><a href="product_detail.asp">Product Name Here</a></h2>
                                             <div class="product-price">
                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                             </div>
@@ -415,10 +380,7 @@
                                             </div>
                                         </div>
                                         <div class="product-content-wrap">
-                                            <div class="product-category">
-                                                <a href="shop_by_categories.asp">Product Category</a>
-                                            </div>
-                                            <h2><a href="#">Product Name Here</a></h2>
+                                            <h2 class="mt-2"><a href="product_detail.asp">Product Name Here</a></h2>
                                             <div class="product-price">
                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                             </div>
@@ -442,10 +404,7 @@
                                             </div>
                                         </div>
                                         <div class="product-content-wrap">
-                                            <div class="product-category">
-                                                <a href="shop_by_categories.asp">Product Category</a>
-                                            </div>
-                                            <h2><a href="#">Product Name Here</a></h2>
+                                            <h2 class="mt-2"><a href="product_detail.asp">Product Name Here</a></h2>
                                             <div class="product-price">
                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                             </div>
@@ -469,10 +428,7 @@
                                             </div>
                                         </div>
                                         <div class="product-content-wrap">
-                                            <div class="product-category">
-                                                <a href="shop_by_categories.asp">Product Category</a>
-                                            </div>
-                                            <h2><a href="#">Product Name Here</a></h2>
+                                            <h2 class="mt-2"><a href="product_detail.asp">Product Name Here</a></h2>
                                             <div class="product-price">
                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                             </div>
@@ -496,10 +452,7 @@
                                             </div>
                                         </div>
                                         <div class="product-content-wrap">
-                                            <div class="product-category">
-                                                <a href="shop_by_categories.asp">Product Category</a>
-                                            </div>
-                                            <h2><a href="#">Product Name Here</a></h2>
+                                            <h2 class="mt-2"><a href="product_detail.asp">Product Name Here</a></h2>
                                             <div class="product-price">
                                                 <span><i class="fa fa-inr" aria-hidden="true"></i> 200.00/-</span>
                                             </div>
@@ -529,51 +482,66 @@
             </section>
 
             <section class="filter-section">
-                <div class="primary-sidebar sticky-sidebar">
-                    <div class="widget-category mb-30">
-                        <h5 class="section-title style-1 mb-30 wow fadeIn animated">Category</h5>
-                        <div class="list-group">
-                                <div class="custome-checkbox">
-                                    <input class="form-check-input" type="checkbox" name="checkbox" id="exampleCheckbox1" value="">
-                                    <label class="form-check-label" for="exampleCheckbox1"><span>Category Name Here</span></label>
-                                    
-                                    <input class="form-check-input" type="checkbox" name="checkbox" id="exampleCheckbox2" value="">
-                                    <label class="form-check-label" for="exampleCheckbox2"><span>Category Name Here</span></label>
-                                    
-                                    <input class="form-check-input" type="checkbox" name="checkbox" id="exampleCheckbox3" value="">
-                                    <label class="form-check-label" for="exampleCheckbox3"><span>Category Name Here</span></label>
-                                    
-                                    <input class="form-check-input" type="checkbox" name="checkbox" id="exampleCheckbox4" value="">
-                                    <label class="form-check-label" for="exampleCheckbox4"><span>Category Name Here</span></label>
-                                    
-                                    <input class="form-check-input" type="checkbox" name="checkbox" id="exampleCheckbox5" value="">
-                                    <label class="form-check-label" for="exampleCheckbox5"><span>Category Name Here</span></label>
-
-                                    <input class="form-check-input" type="checkbox" name="checkbox" id="exampleCheckbox6" value="">
-                                    <label class="form-check-label" for="exampleCheckbox6"><span>Category Name Here</span></label>
-                                    
-                                    <input class="form-check-input" type="checkbox" name="checkbox" id="exampleCheckbox7" value="">
-                                    <label class="form-check-label" for="exampleCheckbox7"><span>Category Name Here</span></label>
-                                    
-                                    <input class="form-check-input" type="checkbox" name="checkbox" id="exampleCheckbox8" value="">
-                                    <label class="form-check-label" for="exampleCheckbox8"><span>Category Name Here</span></label>
-                                </div>
-                        </div>
+                <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
+                    <div class="offcanvas-header border-bottom">
+                        <h5 class="offcanvas-title" id="offcanvasExampleLabel">Filter Your Choice</h5>
+                        <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
                     </div>
-                    <!-- Fillter By Price -->
-                    <div class="sidebar-widget price_range range mb-30">
-                        <div class="widget-header position-relative mb-20 pb-10">
-                            <h5 class="widget-title mb-10">Fill by price</h5>
-                            <div class="bt-1 border-color-1"></div>
-                        </div>
-                        <div class="price-filter">
-                            <div class="price-filter-inner">
-                                <div id="slider-range"></div>
-                                <div class="price_slider_amount">
-                                    <div class="label-input">
-                                        <span>Range:</span><input type="text" id="amount" name="price" placeholder="Add Your Price">
+                    <div class="offcanvas-body">
+                        <div class="primary-sidebar">
+                            <div class="sidebar-widget price_range range mb-20 p-3">
+                                <div class="list-group">
+                                    <div class="list-group-item mb-1 mt-1">
+                                        <label class="fw-900">Select Category</label>
+                                        <div class="custome-checkbox">
+                                            <input class="form-check-input" type="checkbox" name="checkbox" id="exampleCheckbox11" value="">
+                                            <label class="form-check-label" for="exampleCheckbox11"><span>Gift For Him</span></label>
+                                            <br>
+                                            <input class="form-check-input" type="checkbox" name="checkbox" id="exampleCheckbox21" value="">
+                                            <label class="form-check-label" for="exampleCheckbox21"><span>Gift For Her</span></label>
+                                            <br>
+                                            <input class="form-check-input" type="checkbox" name="checkbox" id="exampleCheckbox31" value="">
+                                            <label class="form-check-label" for="exampleCheckbox31"><span>Gift For Dad</span></label>
+                                            <br>
+                                            <input class="form-check-input" type="checkbox" name="checkbox" id="exampleCheckbox11" value="">
+                                            <label class="form-check-label" for="exampleCheckbox11"><span>Gift For Mom</span></label>
+                                            <br>
+                                            <input class="form-check-input" type="checkbox" name="checkbox" id="exampleCheckbox21" value="">
+                                            <label class="form-check-label" for="exampleCheckbox21"><span>Rakshabandhan Gifts</span></label>
+                                            <br>
+                                            <input class="form-check-input" type="checkbox" name="checkbox" id="exampleCheckbox31" value="">
+                                            <label class="form-check-label" for="exampleCheckbox31"><span>Light Lamp</span></label>
+                                        </div>
                                     </div>
                                 </div>
+                            </div>
+                            <div class="sidebar-widget price_range range mb-20 p-3">
+                                <div class="list-group-item mb-1 mt-1">
+                                    <label class="fw-900">Select Price</label>
+                                    <div class="custome-checkbox">
+                                        <input class="form-check-input" type="checkbox" name="checkbox" id="price_1" value="">
+                                        <label class="form-check-label" for="price_1"><span><i class="fa fa-inr" aria-hidden="true"></i>0 - 300</span></label>
+                                        <br>
+                                        <input class="form-check-input" type="checkbox" name="checkbox" id="price_2" value="">
+                                        <label class="form-check-label" for="price_2"><span><i class="fa fa-inr" aria-hidden="true"></i>300 - 500</span></label>
+                                        <br>
+                                        <input class="form-check-input" type="checkbox" name="checkbox" id="price_3" value="">
+                                        <label class="form-check-label" for="price_3"><span><i class="fa fa-inr" aria-hidden="true"></i>500 - 700</span></label>
+                                        <br>
+                                        <input class="form-check-input" type="checkbox" name="checkbox" id="price_4" value="">
+                                        <label class="form-check-label" for="price_4"><span><i class="fa fa-inr" aria-hidden="true"></i>700 - 1000</span></label>
+                                        <br>
+                                        <input class="form-check-input" type="checkbox" name="checkbox" id="price_5" value="">
+                                        <label class="form-check-label" for="price_5"><span><i class="fa fa-inr" aria-hidden="true"></i>1000 - 1300</span></label>
+                                        <br>
+                                        <input class="form-check-input" type="checkbox" name="checkbox" id="price_5" value="">
+                                        <label class="form-check-label" for="price_5"><span><i class="fa fa-inr" aria-hidden="true"></i>1300 - 1500</span></label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div align="right">
+                                <a href="#" class="btn btn-sm btn-danger"><i class="fi-rs-filter mr-5"></i> Clear Filter</a>
+                                <a href="#" class="btn btn-sm btn-default"><i class="fa fa-trash" aria-hidden="true"></i> Apply Fillter</a>
                             </div>
                         </div>
                     </div>
